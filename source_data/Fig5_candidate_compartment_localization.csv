@@ -1,0 +1,12 @@
+"gene","dominant_celltype_gse216783","dom_mean","dominant_celltype_gse230375","concordant"
+"NRG1","Schwann/tumour",0.397,"Schwann/tumour",TRUE
+"L1CAM","Schwann/tumour",0.485,"Schwann/tumour",TRUE
+"NCAM2","Schwann/tumour",1.389,"Schwann/tumour",TRUE
+"FCGBP","Myeloid",0.476,"Myeloid",TRUE
+"PRRX1","Fibroblast",0.366,"Fibroblast",TRUE
+"AR","Fibroblast",0.057,"Fibroblast",TRUE
+"SHOX2","Fibroblast",0.019,"Fibroblast",TRUE
+"HRH1","Endothelial",0.12,"Fibroblast",FALSE
+"RRM2B","Schwann/tumour",0.176,"Myeloid",FALSE
+"SLC16A7","T cell",0.212,"T cell",TRUE
+"PDGFRA","Fibroblast",0.376,"Fibroblast",TRUE

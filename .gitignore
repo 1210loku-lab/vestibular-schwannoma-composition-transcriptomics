@@ -1,0 +1,84 @@
+# Local operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and notebook state
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Python/R caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+id_dsa*
+*.p12
+*.pfx
+*.token
+*secret*
+*credential*
+
+# Logs and transient files
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.partial
+*.download
+
+# Raw or bulky analysis data excluded from the public code/table repository
+data/
+data/raw/
+data/processed/
+raw/
+processed/
+*.rds
+*.RData
+*.rda
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+*.tsv.gz
+*.txt.gz
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Submission and internal-working materials are not part of the public release
+submission/
+docs/
+backup/
+AGENT_HANDOFF*.md
+NIGHT_AUTORUN_PLAN.md
+AGENTS.md
+.agents/
+.remember/
+
+# Rendered manuscript/figure outputs should be uploaded through journal or Zenodo assets, not committed here
+*.doc
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg

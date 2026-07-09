@@ -1,0 +1,13 @@
+"cohort","cell_type","n","spearman_vs_GSE230375ref"
+"GSE39645","Schwann/tumour",40,0.958
+"GSE39645","Myeloid",40,0.796
+"GSE39645","T cell",40,0.519
+"GSE39645","Fibroblast",40,0.935
+"GSE39645","Endothelial",40,0.213
+"GSE39645","Pericyte",40,0.704
+"GSE108524","Schwann/tumour",31,0.644
+"GSE108524","Myeloid",31,0.968
+"GSE108524","T cell",31,NA
+"GSE108524","Fibroblast",31,0.944
+"GSE108524","Endothelial",31,NA
+"GSE108524","Pericyte",31,0.518
