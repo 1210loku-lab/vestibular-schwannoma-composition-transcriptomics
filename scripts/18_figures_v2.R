@@ -199,10 +199,12 @@ p4c <- ggplot(ca, aes(original_logFC, adjusted_logFC, color=classification)) +
   guides(color=guide_legend(override.aes=list(size=2))) + theme(legend.position="bottom")
 # D bulk-DEG classification by composition consistency and within-compartment evidence
 ivc <- rc("results/pseudobulk/intrinsic_vs_composition.csv")
-class_levels <- c("composition-consistent","both","cell-intrinsic (candidate)","ambiguous/undetermined")
+class_levels <- c("composition-consistent","both","candidate within-compartment","ambiguous/undetermined")
 class_colors <- c("composition-consistent"="#5B7C99","both"="#762A83",
-                  "cell-intrinsic (candidate)"="#B2182B","ambiguous/undetermined"="#BDBDBD")
-class_counts <- as.data.frame(table(factor(ivc$class, levels=class_levels)))
+                  "candidate within-compartment"="#B2182B","ambiguous/undetermined"="#BDBDBD")
+ivc$class_display <- ifelse(ivc$class == "cell-intrinsic (candidate)",
+                            "candidate within-compartment", ivc$class)
+class_counts <- as.data.frame(table(factor(ivc$class_display, levels=class_levels)))
 names(class_counts) <- c("class","count")
 class_counts$percent <- 100 * class_counts$count / sum(class_counts$count)
 class_counts$class <- factor(class_counts$class, levels=rev(class_levels))
