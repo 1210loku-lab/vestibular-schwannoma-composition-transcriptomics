@@ -1,0 +1,15 @@
+recomputed_class,pb_dominant_celltype,N
+attenuated,Schwann/tumour,125
+attenuated,Endothelial,44
+attenuated,Myeloid,39
+attenuated,Fibroblast,34
+attenuated,Pericyte,33
+attenuated,T cell,15
+attenuated,,12
+retained,Fibroblast,24
+retained,Schwann/tumour,7
+retained,Pericyte,6
+retained,Endothelial,6
+retained,Myeloid,6
+retained,T cell,2
+retained,,1

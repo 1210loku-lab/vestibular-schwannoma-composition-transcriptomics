@@ -1,0 +1,4 @@
+evidence_tier,n,n_composition_retained,n_within_compartment_intrinsic,n_cross_cohort_concordant,n_robust_all3
+Tier1_five_layer,19,19,19,19,11
+Tier2_four_layer_concordant,98,29,75,98,17
+Tier3_exploratory,237,4,1,214,5

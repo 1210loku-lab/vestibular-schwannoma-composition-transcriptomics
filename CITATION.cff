@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the associated manuscript and the archived Zenodo release once available."
 title: "Vestibular schwannoma composition-aware transcriptomics analysis code and source data"
-version: "1.0.0-review"
-date-released: "2026-07-08"
+version: "1.1.0"
+date-released: "2026-08-27"
 authors:
   - family-names: "Li"
     given-names: "Mingyang"

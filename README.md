@@ -25,6 +25,7 @@ Raw public data should be obtained from NCBI GEO. This repository does not redis
 - `source_data/`: figure source-data tables exported from the analysis outputs.
 - `supplementary_tables/`: Supplementary Table S1, the compartment-aware cross-evidence map.
 - `session_info/`: session information available for the single-cell localisation run.
+- `new_analysis_N1-N3/`: added in v1.1.0 — code and compact outputs for the three analyses supporting the revised submission (permutation null for cross-cohort concordance, naive-versus-composition-adjusted reclassification, and the evidence-tiered candidate resource).
 - `RELEASE_MANIFEST.csv`: file inventory for this staging release.
 - `.gitignore`: public-release guardrails modelled after the 07 project workflow.
 
@@ -46,6 +47,9 @@ Raw public data should be obtained from NCBI GEO. This repository does not redis
 - `scripts/19_module_preservation.R`: WGCNA module preservation.
 - `scripts/20_prepare_submission_assets.R`: source-data export.
 - `scripts/21_build_embedded_docx.py`: DOCX generation helper used locally; included for provenance.
+- `new_analysis_N1-N3/N1_permutation_null_concordance.R`: 10,000-permutation null for cross-cohort direction concordance and correlation.
+- `new_analysis_N1-N3/N2_three_way_ablation.R`: naive-versus-composition-adjusted threshold reclassification and compartment annotation.
+- `new_analysis_N1-N3/N3_evidence_tier_resource.R`: construction and validation of the evidence-tiered candidate resource.
 
 ## Reproducibility Notes
 

@@ -1,0 +1,15 @@
+metric,value
+n_hub_genes,346
+obs_direction_concordance,0.9335
+null_concordance_mean,0.6234
+null_concordance_p95,0.6561
+concordance_perm_p,1e-04
+concordance_z,15.59
+obs_pearson_r,0.883
+null_r_mean,-1e-04
+null_r_p95,0.0905
+pearson_r_perm_p,1e-04
+pearson_r_z,16.29
+independent_recompute_concordance_matches_stored,1
+independent_recompute_r_matches_stored,1
+n_permutations,10000

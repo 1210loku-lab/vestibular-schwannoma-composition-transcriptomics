@@ -1,0 +1,12 @@
+metric,value
+n_genes_total,17328
+A_significant_naive,1410
+B_significant_adjusted,731
+class_retained,326
+class_attenuated,1084
+class_adjusted_only,405
+spearman_rank_A_vs_B_all,0.248
+spearman_rank_A_vs_B_naiveSig,0.344
+spearman_logFC_A_vs_B,0.696
+candidates_with_compartment_assignment,354
+AtoB_classification_reproduced_stored,1
