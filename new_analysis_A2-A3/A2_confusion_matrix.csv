@@ -1,0 +1,7 @@
+manuscript_compartment,Endothelial,Fibroblast,Myeloid,Pericyte,Schwann/tumour,T cell
+Endothelial,22,7,0,9,6,6
+Fibroblast,5,39,1,9,2,2
+Myeloid,6,4,21,5,5,4
+Pericyte,3,3,1,26,4,1
+Schwann/tumour,9,23,6,12,72,10
+T cell,0,0,0,3,1,13

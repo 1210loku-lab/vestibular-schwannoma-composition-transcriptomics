@@ -1,12 +1,12 @@
 # Vestibular Schwannoma Composition-Aware Transcriptomics
 
-This staging directory is prepared for the public GitHub repository:
+This repository accompanies the public GitHub project:
 
 `https://github.com/1210loku-lab/vestibular-schwannoma-composition-transcriptomics`
 
 It accompanies the manuscript:
 
-**Cross-cohort and single-cell decomposition of reproducible transcriptomic features in vestibular schwannoma**
+**Cell-composition sensitivity of bulk transcriptomic inference in vestibular schwannoma: cross-cohort, multi-reference analysis with external single-cell localization**
 
 This is a confirmatory, composition-aware reanalysis of public vestibular schwannoma transcriptomic datasets. It evaluates cross-platform reproducibility of bulk VS-versus-nerve expression features and maps reproducible signals onto single-cell-defined compartments using pseudobulk analysis, reference-based deconvolution and conservative composition-adjusted modelling.
 
@@ -15,7 +15,8 @@ This is a confirmatory, composition-aware reanalysis of public vestibular schwan
 - GSE39645: discovery bulk microarray cohort.
 - GSE108524: external bulk microarray cohort.
 - GSE230375: single-cell reference with VS and great-auricular-nerve samples.
-- GSE216783: VS-only single-cell cohort used for reference-sensitivity analysis.
+- GSE216783: VS-only single-cell cohort used for reference-sensitivity and donor-held-out synthetic-mixture analyses.
+- GSE250061: external tumour-only single-cell cohort used for descriptive broad-lineage localization.
 
 Raw public data should be obtained from NCBI GEO. This repository does not redistribute raw GEO downloads, single-cell objects, local working data, submission files, or author/internal handoff notes.
 
@@ -26,6 +27,7 @@ Raw public data should be obtained from NCBI GEO. This repository does not redis
 - `supplementary_tables/`: Supplementary Table S1, the compartment-aware cross-evidence map.
 - `session_info/`: session information available for the single-cell localisation run.
 - `new_analysis_N1-N3/`: added in v1.1.0 — code and compact outputs for the three analyses supporting the revised submission (permutation null for cross-cohort concordance, naive-versus-composition-adjusted reclassification, and the evidence-tiered candidate resource).
+- `new_analysis_A2-A3/`: added in v1.2.0 — code and compact outputs for external GSE250061 localization, the multi-reference and multi-estimator robustness matrix, the donor-held-out synthetic-mixture benchmark, calibration and rare-proportion summaries, Figure 5 source data, and session information.
 - `RELEASE_MANIFEST.csv`: file inventory for this staging release.
 - `.gitignore`: public-release guardrails modelled after the 07 project workflow.
 
@@ -57,24 +59,9 @@ The analyses use public datasets with heterogeneous nerve controls and a limited
 
 The public-release scripts use `Sys.getenv("PROJ_ROOT", getwd())` for project-root resolution. Before running from a fresh clone, download the public GEO datasets, recreate the expected `data/raw/` and `data/processed/` inputs, then either run commands from the repository root or set `PROJ_ROOT=/path/to/clone`.
 
-## Pre-Upload Leak Checks
+## Archiving
 
-Before creating the GitHub repository or Zenodo archive, run leak checks from this staging directory:
-
-```bash
-find . -type f -size +10M -print
-git init
-git config user.name "[Author/Lab]"
-git config user.email "noreply@example.com"
-git status --short
-git remote -v
-```
-
-Also run a local path and secret-token scan before upload, including absolute user paths, local-file URL schemes, private-key headers, GitHub tokens, cloud access keys, Slack tokens, personal email addresses and cross-project keywords. Expected pre-upload status: no files above 10 MB, no secret/path hits, no remote until the user explicitly approves repository creation.
-
-After the GitHub repository is created but before making it public, perform a fresh clone and repeat both file-tree and full-history checks. The 07 project release showed that a later commit can reintroduce an absolute path even after the initial Zenodo archive is clean, so the final check must cover current files, commit authors/committers and full history.
-
-For Zenodo, cite the concept DOI in the manuscript and portal metadata once the repository release is archived. Version DOIs may change with later releases.
+Versioned releases are archived through the GitHub-Zenodo integration under Zenodo concept DOI [10.5281/zenodo.21361686](https://doi.org/10.5281/zenodo.21361686). Cite the version-specific DOI when referring to a particular release.
 
 ## License
 

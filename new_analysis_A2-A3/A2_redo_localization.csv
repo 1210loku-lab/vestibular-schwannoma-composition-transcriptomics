@@ -1,0 +1,355 @@
+gene,manuscript_compartment,scRNA_dominant,concordance,pct_nonzero,spec_margin_log,n_donors_detected
+ATF7IP2,Myeloid,T cell,PARTIAL,42.7,0.029,3
+PRRX1,Fibroblast,Pericyte,PARTIAL,0.5,0.507,0
+PLA2G2A,Fibroblast,Schwann/tumour,NO,0.26,0.009,0
+PAK3,Fibroblast,Fibroblast,YES,0.66,0.076,0
+MFSD11,Myeloid,T cell,NO,26.03,0.017,3
+FABP4,Endothelial,Pericyte,PARTIAL,0.31,0.408,0
+FBLN1,Fibroblast,Fibroblast,YES,0.79,0.004,0
+FRMD4A,Myeloid,Myeloid,YES,77.83,0.637,3
+FIBIN,Fibroblast,Fibroblast,YES,0.36,0.071,1
+WIPI1,Schwann/tumour,Fibroblast,PARTIAL,21.82,0.531,3
+ANGPT1,Pericyte,Pericyte,YES,1.36,0.46,2
+MID1,Schwann/tumour,Endothelial,NO,8.09,0.239,3
+MFAP5,Fibroblast,Fibroblast,YES,0.19,0.044,0
+SLC22A3,Pericyte,Pericyte,YES,0.15,0.119,0
+SELENBP1,Fibroblast,Pericyte,PARTIAL,1.26,0.177,2
+ABCC9,Fibroblast,Pericyte,PARTIAL,0.48,0.838,0
+TSHZ2,Endothelial,Fibroblast,PARTIAL,2.36,0.16,3
+PDGFRL,Fibroblast,Fibroblast,YES,0.86,0.872,1
+PCID2,Schwann/tumour,T cell,PARTIAL,17.63,0.031,3
+L1CAM,Schwann/tumour,Schwann/tumour,YES,14.59,0.676,2
+NRG1,Schwann/tumour,Fibroblast,PARTIAL,3.88,0.408,3
+NCAM2,Schwann/tumour,Schwann/tumour,YES,24.28,0.94,3
+EHBP1,Schwann/tumour,Schwann/tumour,YES,53.59,1.421,3
+FCGBP,Myeloid,Myeloid,YES,11.41,0.141,3
+HRH1,Fibroblast,Endothelial,PARTIAL,3.44,0.294,3
+RASSF4,Myeloid,Myeloid,YES,59.96,0.359,3
+AR,Fibroblast,Pericyte,NO,0.82,0.173,1
+ARHGEF26,Schwann/tumour,Schwann/tumour,YES,18.89,0.774,3
+ASS1,Endothelial,Endothelial,YES,0.62,0.341,0
+JAKMIP2,Schwann/tumour,Schwann/tumour,YES,14.83,0.264,3
+LOC653653,,GENE_ABSENT,,0.0,0.0,0
+CLMP,Fibroblast,Fibroblast,YES,2.26,0.87,3
+ZNF347,Endothelial,Endothelial,YES,8.2,0.002,3
+LGALS3BP,Schwann/tumour,Pericyte,NO,25.11,0.041,3
+NRCAM,Schwann/tumour,Schwann/tumour,YES,10.08,0.299,3
+ARSK,Schwann/tumour,Schwann/tumour,YES,8.53,0.075,3
+ST3GAL6,Myeloid,Myeloid,YES,50.75,0.378,3
+SEMA7A,Schwann/tumour,Schwann/tumour,YES,3.24,0.041,3
+STARD13,Schwann/tumour,Schwann/tumour,YES,53.86,0.815,3
+THSD4,Fibroblast,Endothelial,PARTIAL,3.25,0.25,3
+NCAM1,Schwann/tumour,Schwann/tumour,YES,25.52,1.882,3
+ZFPM2,Fibroblast,Fibroblast,YES,10.77,0.039,3
+SAMD9L,T cell,T cell,YES,26.17,0.119,3
+HTATIP2,Myeloid,Schwann/tumour,NO,16.36,0.018,3
+SHOX2,Fibroblast,Fibroblast,YES,0.03,0.025,0
+TMOD2,Schwann/tumour,Schwann/tumour,YES,26.78,0.473,3
+SOX2,Schwann/tumour,Schwann/tumour,YES,14.07,0.726,2
+EGFR,Fibroblast,Fibroblast,YES,2.65,0.81,3
+DRAM1,Myeloid,Schwann/tumour,PARTIAL,16.72,0.04,3
+PTGIS,Fibroblast,Fibroblast,YES,0.37,0.073,0
+PDGFRA,Fibroblast,Fibroblast,YES,0.27,0.778,0
+CDH2,Schwann/tumour,Endothelial,PARTIAL,7.49,0.191,3
+UCHL1,Schwann/tumour,Schwann/tumour,YES,7.91,0.223,3
+FMNL3,Myeloid,Myeloid,YES,43.85,0.063,3
+NCK1,Myeloid,Endothelial,NO,39.02,0.171,3
+TNS3,Schwann/tumour,Pericyte,PARTIAL,53.37,0.019,3
+ALCAM,Schwann/tumour,Myeloid,NO,59.05,0.731,3
+FER,Schwann/tumour,Schwann/tumour,YES,54.05,0.047,3
+ZNF334,Schwann/tumour,Fibroblast,PARTIAL,4.71,0.02,3
+PREP,T cell,T cell,YES,22.18,0.102,3
+RASGRF2,Endothelial,Endothelial,YES,7.86,0.764,3
+APH1B,Myeloid,Fibroblast,PARTIAL,20.38,0.143,3
+CCDC80,Fibroblast,Fibroblast,YES,1.92,0.625,2
+KLF5,Fibroblast,Fibroblast,YES,3.52,0.011,3
+MEOX2,Endothelial,Fibroblast,NO,0.36,0.547,0
+TIGAR,Myeloid,Pericyte,PARTIAL,28.05,0.018,3
+LRRC32,Endothelial,Pericyte,PARTIAL,0.85,0.199,1
+RAB11FIP2,Schwann/tumour,Fibroblast,NO,17.62,0.042,3
+DPP4,T cell,T cell,YES,3.94,0.144,3
+ENO2,Schwann/tumour,Schwann/tumour,YES,3.26,0.038,3
+CYP4X1,Fibroblast,Pericyte,PARTIAL,0.23,0.076,0
+GHR,Fibroblast,Fibroblast,YES,1.84,0.462,2
+STEAP4,Pericyte,Pericyte,YES,0.91,0.811,1
+CDH6,Pericyte,Pericyte,YES,3.76,0.907,2
+EBF3,Fibroblast,Fibroblast,YES,0.37,0.137,0
+ERAP1,T cell,T cell,YES,17.64,0.055,3
+PDE1A,Pericyte,Pericyte,YES,0.75,0.501,1
+USP9X,Schwann/tumour,Myeloid,NO,55.18,0.055,3
+ZNF846,Myeloid,Myeloid,YES,39.46,0.293,3
+INMT,Fibroblast,Endothelial,PARTIAL,0.25,0.003,0
+ACKR1,Endothelial,Endothelial,YES,0.62,0.168,0
+AKR1C2,Fibroblast,Fibroblast,YES,0.43,0.081,0
+INTS10,Myeloid,Schwann/tumour,PARTIAL,46.55,0.068,3
+ATP6V1C1,Myeloid,Fibroblast,PARTIAL,37.83,0.045,3
+MICA,Endothelial,Endothelial,YES,7.86,0.04,3
+THBS4,Fibroblast,Pericyte,NO,2.01,0.17,2
+PDGFA,Pericyte,Pericyte,YES,14.7,0.377,3
+IFIT5,Schwann/tumour,Fibroblast,PARTIAL,7.82,0.014,3
+TMTC1,Endothelial,Endothelial,YES,2.83,0.692,3
+FAM13C,Pericyte,Pericyte,YES,1.49,0.539,1
+SVEP1,Fibroblast,Fibroblast,YES,2.75,0.548,2
+SFRP2,Fibroblast,Myeloid,NO,0.03,0.0,0
+CORO2B,Schwann/tumour,Schwann/tumour,YES,9.06,0.154,2
+ACBD5,Myeloid,Myeloid,YES,22.18,0.004,3
+ZNF521,Endothelial,Endothelial,YES,2.46,0.203,3
+TANC2,Myeloid,Myeloid,YES,70.9,0.515,3
+RERG,Pericyte,Pericyte,YES,0.77,1.148,2
+KLHL5,Myeloid,Endothelial,PARTIAL,50.89,0.332,3
+POP5,Myeloid,Pericyte,NO,14.13,0.089,3
+TAGLN,Pericyte,Pericyte,YES,4.27,2.09,3
+CRABP2,Fibroblast,Fibroblast,YES,0.33,0.015,0
+RABGGTB,Myeloid,Myeloid,YES,24.26,0.041,3
+BOC,Fibroblast,Fibroblast,YES,2.25,0.098,3
+GLB1,Myeloid,Myeloid,YES,25.91,0.06,3
+DACT1,Fibroblast,Fibroblast,YES,0.94,0.014,2
+KATNAL1,Schwann/tumour,T cell,PARTIAL,16.79,0.134,3
+SYNPO2,Pericyte,Fibroblast,PARTIAL,6.28,0.284,3
+AQP1,Endothelial,Endothelial,YES,1.29,0.677,2
+GPC6,Pericyte,Fibroblast,PARTIAL,2.38,0.62,3
+MRPS28,Myeloid,Myeloid,YES,43.57,0.125,3
+AOC3,Pericyte,Pericyte,YES,0.27,0.13,0
+CD248,Fibroblast,Pericyte,PARTIAL,0.37,0.135,0
+ERBIN,Endothelial,Schwann/tumour,PARTIAL,53.6,0.187,3
+VIT,Fibroblast,Fibroblast,YES,0.67,1.17,0
+SKA2,Pericyte,Schwann/tumour,NO,17.13,0.05,3
+CD36,Endothelial,Pericyte,PARTIAL,2.42,1.315,3
+CCDC3,Pericyte,Endothelial,PARTIAL,2.08,0.198,3
+LGI4,Schwann/tumour,Schwann/tumour,YES,29.03,1.563,3
+RRM2B,Myeloid,Pericyte,PARTIAL,20.84,0.018,3
+PDZD2,Schwann/tumour,Schwann/tumour,YES,30.29,0.165,3
+SLC16A7,T cell,T cell,YES,8.03,0.247,3
+ANK3,Schwann/tumour,Schwann/tumour,YES,50.85,1.346,3
+RCAN3,T cell,T cell,YES,23.94,0.496,3
+MET,Endothelial,Schwann/tumour,PARTIAL,8.13,0.137,3
+AFDN,Endothelial,Endothelial,YES,13.36,0.904,3
+SEMA3B,Schwann/tumour,Schwann/tumour,YES,24.9,1.36,3
+HPS5,Schwann/tumour,Myeloid,NO,39.0,0.148,3
+TMEM62,Endothelial,T cell,NO,12.01,0.013,3
+SLC16A4,Schwann/tumour,Fibroblast,PARTIAL,7.37,0.003,3
+BBS12,Schwann/tumour,Schwann/tumour,YES,3.11,0.032,3
+SPATA13,Schwann/tumour,Schwann/tumour,YES,41.8,0.05,3
+TDRD7,Myeloid,Myeloid,YES,16.62,0.021,3
+KIF16B,Schwann/tumour,Myeloid,NO,42.37,0.152,3
+ADAM17,Myeloid,Myeloid,YES,59.43,0.703,3
+ERBB2,Schwann/tumour,Schwann/tumour,YES,13.75,0.422,3
+CCND2,T cell,Pericyte,NO,33.57,0.322,3
+ARFIP1,Schwann/tumour,Fibroblast,NO,33.57,0.221,3
+PDE3A,Pericyte,Pericyte,YES,7.9,1.139,3
+PPM1K,Schwann/tumour,Schwann/tumour,YES,36.27,0.347,3
+PARP9,Endothelial,Endothelial,YES,19.54,0.104,3
+CLMN,Pericyte,Pericyte,YES,16.35,1.215,3
+ZRSR2,Myeloid,Myeloid,YES,31.57,0.047,3
+DAG1,Schwann/tumour,Schwann/tumour,YES,14.13,0.121,3
+CYP2U1,Schwann/tumour,Schwann/tumour,YES,12.94,0.315,3
+CAB39L,Schwann/tumour,Schwann/tumour,YES,25.73,0.803,3
+BCL2,T cell,Schwann/tumour,PARTIAL,76.44,0.16,3
+DTX3L,Endothelial,T cell,NO,14.09,0.0,3
+TLE1,Schwann/tumour,Pericyte,PARTIAL,17.11,0.394,3
+NXPE3,Endothelial,Schwann/tumour,NO,15.79,0.034,3
+ZNF536,Schwann/tumour,Schwann/tumour,YES,22.45,1.633,3
+SLC35D2,Schwann/tumour,Schwann/tumour,YES,23.14,0.015,3
+WASHC4,Myeloid,Pericyte,PARTIAL,46.0,0.216,3
+MTCL3,,GENE_ABSENT,,0.0,0.0,0
+SLC30A4,Schwann/tumour,Schwann/tumour,YES,6.7,0.027,3
+YEATS2,Endothelial,Fibroblast,PARTIAL,23.31,0.016,3
+WWP1,Endothelial,Schwann/tumour,PARTIAL,35.75,0.079,3
+BTBD3,Schwann/tumour,Endothelial,PARTIAL,13.07,0.058,3
+CHD7,Schwann/tumour,Schwann/tumour,YES,40.37,0.104,3
+NMI,Myeloid,T cell,NO,21.87,0.007,3
+GSAP,Myeloid,Myeloid,YES,39.74,0.223,3
+SLC44A2,Endothelial,Pericyte,PARTIAL,35.43,0.015,3
+ARHGEF10,Schwann/tumour,Schwann/tumour,YES,23.72,0.263,3
+PRKAB2,Schwann/tumour,Fibroblast,NO,7.1,0.042,3
+ITGB4,Schwann/tumour,Schwann/tumour,YES,21.83,0.837,3
+ITPK1,Schwann/tumour,Schwann/tumour,YES,36.06,0.341,3
+AS3MT,Fibroblast,Fibroblast,YES,3.03,0.014,3
+AP3M2,T cell,Pericyte,PARTIAL,9.87,0.022,3
+TANC1,Endothelial,Endothelial,YES,26.81,0.611,3
+POLI,Schwann/tumour,Schwann/tumour,YES,12.42,0.025,3
+GBA1,,GENE_ABSENT,,0.0,0.0,0
+ABCD3,Schwann/tumour,Schwann/tumour,YES,26.94,0.57,3
+MINDY2,Schwann/tumour,Schwann/tumour,YES,30.5,0.347,3
+PLBD2,Fibroblast,Fibroblast,YES,10.69,0.033,3
+UXS1,Schwann/tumour,Fibroblast,NO,17.44,0.056,3
+PARP14,Myeloid,Endothelial,NO,44.6,0.189,3
+KAT2B,Schwann/tumour,T cell,PARTIAL,35.37,0.262,3
+WSB1,Schwann/tumour,Schwann/tumour,YES,79.52,0.353,3
+FBXL2,Schwann/tumour,Schwann/tumour,YES,10.13,0.063,3
+ZNF385D,Endothelial,Endothelial,YES,3.04,0.456,3
+BPGM,Schwann/tumour,Schwann/tumour,YES,12.35,0.124,3
+SETDB2,Myeloid,Myeloid,YES,22.04,0.003,3
+ALG5,Schwann/tumour,Schwann/tumour,YES,21.78,0.006,3
+SAMD9,T cell,T cell,YES,20.54,0.166,3
+FNDC5,Fibroblast,Fibroblast,YES,0.27,0.048,0
+PPT2,Endothelial,Endothelial,YES,3.18,0.044,3
+PLXNA3,Schwann/tumour,Schwann/tumour,YES,7.21,0.045,3
+EVI5,Schwann/tumour,Pericyte,PARTIAL,54.09,0.154,3
+TOM1L2,Schwann/tumour,Schwann/tumour,YES,24.88,0.327,3
+DNAAF9,,GENE_ABSENT,,0.0,0.0,0
+KIF1A,Schwann/tumour,Schwann/tumour,YES,5.97,0.211,2
+SNX24,Schwann/tumour,Schwann/tumour,YES,22.01,0.12,3
+SLC12A4,Pericyte,Pericyte,YES,5.96,0.065,3
+NAPEPLD,Schwann/tumour,Schwann/tumour,YES,7.95,0.008,3
+SIPA1L1,Schwann/tumour,Myeloid,NO,78.51,0.312,3
+TBX18,Pericyte,Pericyte,YES,0.22,0.096,0
+MOSPD2,Schwann/tumour,Endothelial,PARTIAL,16.71,0.004,3
+RTKN,Schwann/tumour,Fibroblast,PARTIAL,8.73,0.077,3
+PRICKLE1,Fibroblast,Fibroblast,YES,2.18,0.51,3
+SLITRK2,Schwann/tumour,Schwann/tumour,YES,1.48,0.052,2
+RNF213,T cell,T cell,YES,61.56,0.556,3
+CTSO,Fibroblast,Fibroblast,YES,12.85,0.017,3
+KDM3A,Myeloid,Endothelial,NO,23.72,0.087,3
+ZMYND8,Schwann/tumour,Schwann/tumour,YES,47.33,0.088,3
+TNXB,Fibroblast,Endothelial,PARTIAL,3.29,0.209,3
+SGMS1,Schwann/tumour,Fibroblast,NO,40.95,0.112,3
+ECHDC1,Schwann/tumour,Fibroblast,NO,35.92,0.103,3
+CEP350,Myeloid,Endothelial,NO,57.47,0.027,3
+EEIG1,,GENE_ABSENT,,0.0,0.0,0
+TEX2,Schwann/tumour,Fibroblast,NO,22.16,0.033,3
+RAP1GDS1,Schwann/tumour,T cell,PARTIAL,51.28,0.38,3
+ZNF383,Endothelial,Fibroblast,NO,8.03,0.007,3
+NIPAL3,T cell,T cell,YES,14.55,0.132,3
+HTT,Schwann/tumour,Schwann/tumour,YES,30.78,0.03,3
+MLLT10,Endothelial,Endothelial,YES,42.3,0.089,3
+PRMT2,Schwann/tumour,T cell,PARTIAL,72.77,0.016,3
+INF2,Schwann/tumour,Schwann/tumour,YES,11.55,0.258,3
+TGFB3,Pericyte,Pericyte,YES,1.39,0.155,2
+ZC4H2,Schwann/tumour,Fibroblast,NO,7.98,0.23,3
+PTAR1,Schwann/tumour,T cell,PARTIAL,21.7,0.037,3
+EBF1,Pericyte,Pericyte,YES,2.4,1.012,3
+ATL1,Schwann/tumour,Schwann/tumour,YES,12.17,0.143,3
+ABCA3,Schwann/tumour,Endothelial,PARTIAL,5.04,0.012,3
+EIF2AK2,Endothelial,Endothelial,YES,35.67,0.019,3
+HDAC11,Schwann/tumour,Schwann/tumour,YES,5.32,0.073,3
+C3orf38,Myeloid,Myeloid,YES,19.68,0.005,3
+EDIL3,Schwann/tumour,Pericyte,NO,5.17,0.775,3
+HCFC2,Pericyte,Pericyte,YES,12.91,0.033,3
+PON2,Schwann/tumour,Schwann/tumour,YES,32.82,0.138,3
+CERS6,Schwann/tumour,Pericyte,NO,45.15,0.867,3
+RABEP1,Myeloid,T cell,NO,44.74,0.012,3
+PCBP4,Schwann/tumour,Schwann/tumour,YES,7.22,0.03,3
+ZSWIM6,Myeloid,Myeloid,YES,78.28,0.286,3
+SNED1,Endothelial,Endothelial,YES,7.03,0.331,3
+GMFB,Schwann/tumour,Schwann/tumour,YES,19.54,0.103,3
+ZNF845,Endothelial,Fibroblast,NO,4.11,0.003,3
+C5orf15,Fibroblast,Fibroblast,YES,17.48,0.127,3
+SLC39A6,Schwann/tumour,Pericyte,PARTIAL,12.3,0.021,3
+PDZD4,Schwann/tumour,Schwann/tumour,YES,2.49,0.079,2
+RRN3P2,,GENE_ABSENT,,0.0,0.0,0
+GPD1L,Endothelial,T cell,NO,9.33,0.066,3
+PLXNB2,Schwann/tumour,Fibroblast,NO,16.75,0.019,3
+OSBPL11,Myeloid,Myeloid,YES,29.53,0.0,3
+FBXL4,Schwann/tumour,Pericyte,PARTIAL,20.4,0.0,3
+PLEKHA1,Schwann/tumour,Endothelial,NO,18.17,0.16,3
+HSPA13,Schwann/tumour,Pericyte,PARTIAL,9.34,0.013,3
+WBP11,Schwann/tumour,Schwann/tumour,YES,35.29,0.054,3
+ZFP90,Schwann/tumour,Pericyte,NO,12.49,0.051,3
+FBXO28,Endothelial,T cell,NO,21.62,0.09,3
+HPS3,Myeloid,Fibroblast,NO,19.38,0.026,3
+CPT1A,Endothelial,Pericyte,PARTIAL,15.68,0.032,3
+CYP4V2,Fibroblast,Pericyte,NO,12.32,0.077,3
+ANKRD28,Endothelial,T cell,NO,35.05,0.21,3
+ERMARD,Schwann/tumour,Fibroblast,NO,11.94,0.013,3
+MAP4K3,Schwann/tumour,Myeloid,NO,60.58,0.289,3
+PHACTR4,Endothelial,Schwann/tumour,PARTIAL,55.18,0.317,3
+QNG1,,GENE_ABSENT,,0.0,0.0,0
+PIGK,Schwann/tumour,Fibroblast,NO,15.96,0.0,3
+EDNRA,Pericyte,Pericyte,YES,0.54,0.55,0
+AATK,Schwann/tumour,Schwann/tumour,YES,20.49,0.601,3
+POGLUT1,Endothelial,Fibroblast,NO,15.6,0.012,3
+IFNAR1,Myeloid,Endothelial,NO,35.09,0.022,3
+CNP,Schwann/tumour,Schwann/tumour,YES,24.43,0.65,3
+CLN5,Fibroblast,Fibroblast,YES,15.52,0.168,3
+SELP,Endothelial,Endothelial,YES,0.25,0.094,0
+WDR47,Schwann/tumour,Schwann/tumour,YES,21.36,0.053,3
+ZNF25,Pericyte,Pericyte,YES,10.3,0.243,3
+CCL19,Pericyte,GENE_ABSENT,,0.0,0.0,0
+MOCS2,Schwann/tumour,Schwann/tumour,YES,20.27,0.114,3
+CSNK1G3,Endothelial,Endothelial,YES,25.44,0.011,3
+PLPPR4,Endothelial,Pericyte,PARTIAL,0.1,0.093,0
+ORC3,Schwann/tumour,Endothelial,NO,23.15,0.011,3
+PLOD3,Schwann/tumour,Fibroblast,PARTIAL,13.43,0.117,3
+SUCLG2,Pericyte,T cell,NO,58.72,0.388,3
+HYCC1,,GENE_ABSENT,,0.0,0.0,0
+ARHGAP12,Fibroblast,Fibroblast,YES,25.67,0.158,3
+TMEM50B,Schwann/tumour,Schwann/tumour,YES,35.83,0.351,3
+CFAP20,Schwann/tumour,Schwann/tumour,YES,14.33,0.16,3
+KYAT3,Schwann/tumour,Schwann/tumour,YES,21.03,0.03,3
+MAP4K5,Schwann/tumour,Schwann/tumour,YES,48.91,0.199,3
+LMBRD2,Schwann/tumour,Pericyte,NO,7.85,0.058,3
+WASHC3,Schwann/tumour,Fibroblast,PARTIAL,31.52,0.065,3
+EXOSC10,Schwann/tumour,Fibroblast,NO,13.6,0.515,3
+ADI1,Fibroblast,Schwann/tumour,PARTIAL,36.61,0.056,3
+LRRCC1,Pericyte,Schwann/tumour,PARTIAL,9.53,0.013,3
+SOS2,Schwann/tumour,Pericyte,NO,42.78,0.165,3
+PRXL2C,Pericyte,Myeloid,NO,26.28,0.023,3
+ETAA1,Schwann/tumour,Endothelial,PARTIAL,5.56,0.0,3
+DCTN6,Pericyte,Pericyte,YES,23.04,0.156,3
+RDX,Endothelial,Endothelial,YES,58.57,0.11,3
+MTM1,Endothelial,Endothelial,YES,20.82,0.05,3
+KGD4,,GENE_ABSENT,,0.0,0.0,0
+GTF2H5,Schwann/tumour,Schwann/tumour,YES,29.86,0.229,3
+IPO8,Endothelial,Fibroblast,PARTIAL,16.6,0.016,3
+PDCD4,T cell,T cell,YES,53.16,0.407,3
+RUNX1T1,Fibroblast,Endothelial,NO,3.68,0.352,3
+RAB10,Myeloid,Schwann/tumour,NO,56.9,0.148,3
+SPART,Fibroblast,Fibroblast,YES,29.27,0.259,3
+CAPN6,Fibroblast,Fibroblast,YES,0.03,0.165,0
+PCDH18,Fibroblast,Fibroblast,YES,0.2,0.242,0
+FAM229B,Schwann/tumour,Schwann/tumour,YES,7.96,0.065,3
+WASHC5,Myeloid,Pericyte,PARTIAL,21.97,0.0,3
+SNX14,Myeloid,Fibroblast,NO,40.07,0.073,3
+KIF21A,T cell,T cell,YES,12.95,0.051,3
+EEA1,Pericyte,Pericyte,YES,43.89,0.077,3
+PYROXD1,T cell,T cell,YES,14.5,0.076,3
+PAK2,Endothelial,Schwann/tumour,NO,62.1,0.03,3
+AKTIP,Pericyte,Endothelial,PARTIAL,7.44,0.121,3
+KIFBP,,GENE_ABSENT,,0.0,0.0,0
+MTR,Pericyte,Schwann/tumour,NO,41.26,0.299,3
+ARMC10,Pericyte,Pericyte,YES,15.08,0.001,3
+SELENOI,Schwann/tumour,T cell,PARTIAL,17.62,0.117,3
+TRPM7,Fibroblast,T cell,PARTIAL,45.37,0.127,3
+LYVE1,Pericyte,Pericyte,YES,1.39,0.051,2
+OSGIN2,Schwann/tumour,Schwann/tumour,YES,11.64,0.015,3
+RIMOC1,,GENE_ABSENT,,0.0,0.0,0
+MBOAT2,Schwann/tumour,Fibroblast,PARTIAL,12.95,0.145,3
+MRPS18C,Pericyte,Pericyte,YES,26.31,0.021,3
+UBLCP1,T cell,Pericyte,PARTIAL,18.46,0.021,3
+FLRT2,Fibroblast,Fibroblast,YES,3.5,0.391,3
+ANK2,Fibroblast,Fibroblast,YES,17.75,0.109,3
+ARHGEF12,Endothelial,Pericyte,PARTIAL,31.27,0.081,3
+CEP170,Myeloid,Myeloid,YES,49.92,0.246,3
+TSPAN5,Schwann/tumour,T cell,PARTIAL,28.71,0.15,3
+CRYZ,Fibroblast,Fibroblast,YES,5.28,0.011,3
+PRKD1,Schwann/tumour,Fibroblast,NO,11.69,0.304,3
+ATP6V1D,Pericyte,Endothelial,NO,35.74,0.054,3
+SCRN3,Endothelial,Pericyte,NO,9.21,0.03,3
+OLFML1,Fibroblast,Pericyte,PARTIAL,2.48,0.059,3
+ABCA2,Schwann/tumour,Schwann/tumour,YES,11.47,0.318,3
+SLIT3,Pericyte,Pericyte,YES,2.05,1.423,3
+TFPI,Fibroblast,Fibroblast,YES,3.96,0.669,3
+C6orf62,Myeloid,Myeloid,YES,46.61,0.036,3
+AKR1C3,Endothelial,Endothelial,YES,8.92,0.384,3
+OMD,Fibroblast,Fibroblast,YES,3.45,0.413,3
+ASPA,Schwann/tumour,Schwann/tumour,YES,11.46,0.314,3
+TCEAL1,Pericyte,Schwann/tumour,PARTIAL,15.62,0.19,3
+CAT,Myeloid,Schwann/tumour,PARTIAL,29.83,0.025,3
+VAMP4,Pericyte,Fibroblast,NO,10.39,0.007,3
+RPS6KA5,Schwann/tumour,T cell,PARTIAL,38.4,0.114,3
+KCTD3,Schwann/tumour,Schwann/tumour,YES,19.75,0.197,3
+SLU7,Fibroblast,T cell,NO,30.78,0.001,3
+ATOSA,,GENE_ABSENT,,0.0,0.0,0
+LYRM9,Schwann/tumour,Schwann/tumour,YES,7.56,0.004,3
+EZH1,Fibroblast,Fibroblast,YES,21.34,0.045,3
+BRD10,,GENE_ABSENT,,0.0,0.0,0
+KIF13B,Schwann/tumour,T cell,PARTIAL,55.45,0.118,3
+PTBP2,Schwann/tumour,Endothelial,NO,43.24,0.076,3
+FRYL,Endothelial,Endothelial,YES,59.74,0.108,3
+SCAPER,Endothelial,T cell,PARTIAL,50.09,0.012,3
+RFTN2,Schwann/tumour,Fibroblast,NO,14.99,0.079,3
+ODR4,Endothelial,Pericyte,NO,25.93,0.034,3
+FAM177A1,T cell,T cell,YES,38.53,0.28,3
+ZBTB20,Fibroblast,Fibroblast,YES,89.77,0.211,3
+EMC2,Pericyte,Pericyte,YES,21.4,0.297,3

@@ -4,7 +4,7 @@ options(stringsAsFactors = FALSE, warn = 1)
 
 project_root <- Sys.getenv("PROJ_ROOT", getwd())
 output_dir <- file.path(project_root, "results", "scrna")
-tmp_root <- "/tmp/coop_neurosurg"
+tmp_root <- Sys.getenv("VS_SCRNA_TMP", file.path(tempdir(), "vs_scrna"))
 tmp_dir <- file.path(tmp_root, "scrna_tmp")
 tar_path <- file.path(tmp_root, "GSE230375_RAW.tar")
 hub_path <- file.path(project_root, "results", "hub", "hub_all.csv")
