@@ -28,7 +28,8 @@ Raw public data should be obtained from NCBI GEO. This repository does not redis
 - `session_info/`: session information available for the single-cell localisation run.
 - `new_analysis_N1-N3/`: added in v1.1.0 — code and compact outputs for the three analyses supporting the revised submission (permutation null for cross-cohort concordance, naive-versus-composition-adjusted reclassification, and the evidence-tiered candidate resource).
 - `new_analysis_A2-A3/`: added in v1.2.0 — code and compact outputs for external GSE250061 localization, the multi-reference and multi-estimator robustness matrix, the donor-held-out synthetic-mixture benchmark, calibration and rare-proportion summaries, Figure 5 source data, and session information.
-- `RELEASE_MANIFEST.csv`: file inventory for this staging release.
+- `revision_R1_20261019/`: added in v1.3.0 — 14 portable R scripts, 22 frozen processed inputs, frozen result and figure-source tables, and package-relative integrity records prepared for the JMN first revision. See its README for scope, reproduction order, and retained diagnostic warnings.
+- `RELEASE_MANIFEST.csv`: file inventory for the versioned repository release.
 - `.gitignore`: public-release guardrails modelled after the 07 project workflow.
 
 ## Main Analysis Scripts
@@ -61,7 +62,7 @@ The public-release scripts use `Sys.getenv("PROJ_ROOT", getwd())` for project-ro
 
 ## Archiving
 
-Versioned releases are archived through the GitHub-Zenodo integration under Zenodo concept DOI [10.5281/zenodo.21361686](https://doi.org/10.5281/zenodo.21361686). Cite the version-specific DOI when referring to a particular release.
+Versioned GitHub releases are automatically archived through the GitHub–Zenodo integration under concept DOI [10.5281/zenodo.21361686](https://doi.org/10.5281/zenodo.21361686). Release v1.3.0 adds the JMN R1 package in `revision_R1_20261019/`; cite the version-specific DOI shown on the Zenodo record for this release.
 
 ## License
 

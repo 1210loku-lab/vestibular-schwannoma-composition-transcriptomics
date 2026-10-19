@@ -1,0 +1,32 @@
+scope,component,version,evidence,queried_utc,notes
+current_export_inspection,R,4.5.2 (2025-10-31),Rscript --version,2026-10-16T01:28:16Z,Current host inspection only; not a portable execution claim.
+current_export_inspection,Python,3.9.6,Python runtime version query,2026-10-16T01:28:16Z,Host utility only; exported analysis and figure scripts are R.
+current_export_inspection,macOS,15.7.3,platform version query,2026-10-16T01:28:16Z,Host inspection only.
+current_export_inspection,DESeq2,1.48.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,MuSiC,1.0.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,S4Vectors,0.48.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,SingleCellExperiment,1.32.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,apeglm,1.30.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,data.table,1.18.4,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,ggplot2,4.0.3,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,grDevices,4.5.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,grid,4.5.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,jsonlite,2.0.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,limma,3.66.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,openssl,2.4.1,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,patchwork,1.3.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,ragg,1.5.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,scales,1.4.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,stats,4.5.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,stringr,1.6.0,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,svglite,2.2.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+current_export_inspection,utils,4.5.2,R utils::packageVersion(),2026-10-16T01:28:16Z,"Static dependency package; version queried, not loaded by candidate scripts."
+original_execution_record,R,4.5.2 (2025-10-31),Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,MuSiC,1.0.0,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,SingleCellExperiment,1.32.0,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,limma,3.66.0,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,data.table,1.18.4,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,ggplot2,4.0.3,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+original_execution_record,patchwork,1.3.2,Archived bulk-model/effect-agreement session record,2026-10-16T01:28:16Z,Recorded original-run version; not a current installation assertion.
+current_figure_render_inspection,systemfonts,1.3.2,R utils::packageVersion(),2026-10-19T08:55:11Z,"Main-figure renderer Arial font resolution dependency; host evidence, not an installation lock."
+current_figure_render_inspection,Poppler,26.01.0,pdfinfo -v,2026-10-19T08:55:11Z,"External pdfinfo, pdftotext, and pdftoppm utilities used for main-figure PDF checks/previews."

@@ -1,0 +1,7 @@
+"scope","dominant_celltype","filter_type","threshold","n_bulk_deg","n_with_pb","n_direction","n_concordant","direction_concordance","direction_ci_low","direction_ci_high","cell_type"
+"by_celltype","Schwann/肿瘤细胞","all",,495,454,454,326,0.718061674008811,0.674241425394052,0.759014106893103,"Schwann/tumor"
+"by_celltype","成纤维","all",,265,235,235,155,0.659574468085106,0.595138850391395,0.719925439110286,"Fibroblast"
+"by_celltype","巨噬/髓系","all",,347,319,319,259,0.811912225705329,0.764632255203011,0.853290828244812,"Myeloid"
+"by_celltype","周细胞","all",,160,131,131,79,0.603053435114504,0.513904419717403,0.68743471615688,"Pericyte"
+"by_celltype","T细胞","all",,98,69,69,53,0.768115942028985,0.650930519288853,0.861264823136231,"T cell"
+"by_celltype","内皮","all",,185,154,154,70,0.454545454545455,0.374220555586712,0.536653193318124,"Endothelial"

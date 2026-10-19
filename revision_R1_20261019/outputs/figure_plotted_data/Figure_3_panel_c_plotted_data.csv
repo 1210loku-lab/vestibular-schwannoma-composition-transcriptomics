@@ -1,0 +1,9 @@
+"min_top_mean","min_dominance_ratio","n_evaluable","n_concordant","concordance","cohens_kappa","threshold","agreement_percent","label","source_table","threshold_scope"
+0,1,341,220,0.645161290322581,0.504586605191749,"All",64.5161290322581,"64.5%
+(n=341)","global_compartment_concordance_summary.csv","min_top_mean == 0; positive expression in both references"
+0,1.2,179,144,0.804469273743017,0.697722667181318,"≥1.2",80.4469273743017,"80.4%
+(n=179)","global_compartment_concordance_summary.csv","min_top_mean == 0; positive expression in both references"
+0,1.5,111,103,0.927927927927928,0.890962671905698,"≥1.5",92.7927927927928,"92.8%
+(n=111)","global_compartment_concordance_summary.csv","min_top_mean == 0; positive expression in both references"
+0,2,67,65,0.970149253731343,0.952700317684434,"≥2.0",97.0149253731343,"97.0%
+(n=67)","global_compartment_concordance_summary.csv","min_top_mean == 0; positive expression in both references"

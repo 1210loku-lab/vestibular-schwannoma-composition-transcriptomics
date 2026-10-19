@@ -1,0 +1,43 @@
+"method","cell_type","value","metric","source_table","n","cell_type_display","y_center","y"
+"NNLS","Schwann/tumour",0.771891180008391,"CCC","known_mixture_calibration.csv",NA,"Schwann/
+tumor",6,6.15
+"NNLS","Myeloid",0.744370542291646,"CCC","known_mixture_calibration.csv",NA,"Myeloid",5,5.15
+"NNLS","T cell",0.441913054249058,"CCC","known_mixture_calibration.csv",NA,"T cell",4,4.15
+"NNLS","Fibroblast",0.707154930108949,"CCC","known_mixture_calibration.csv",NA,"Fibroblast",3,3.15
+"NNLS","Endothelial",0.688231178091437,"CCC","known_mixture_calibration.csv",NA,"Endothelial",2,2.15
+"NNLS","Pericyte",0.675051687721296,"CCC","known_mixture_calibration.csv",NA,"Pericyte",1,1.15
+"dtangle","Schwann/tumour",0.819910242543056,"CCC","known_mixture_calibration.csv",NA,"Schwann/
+tumor",6,5.85
+"dtangle","Myeloid",0.674827042170015,"CCC","known_mixture_calibration.csv",NA,"Myeloid",5,4.85
+"dtangle","T cell",0.538167141484403,"CCC","known_mixture_calibration.csv",NA,"T cell",4,3.85
+"dtangle","Fibroblast",0.406320422027151,"CCC","known_mixture_calibration.csv",NA,"Fibroblast",3,2.85
+"dtangle","Endothelial",0.686489002702612,"CCC","known_mixture_calibration.csv",NA,"Endothelial",2,1.85
+"dtangle","Pericyte",0.685703068199882,"CCC","known_mixture_calibration.csv",NA,"Pericyte",1,0.85
+"NNLS","Schwann/tumour",7.42922716211077,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Schwann/
+tumor",6,6.15
+"NNLS","Myeloid",7.24192713871699,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Myeloid",5,5.15
+"NNLS","T cell",12.9842782694057,"Overall MAE (%)","known_mixture_calibration.csv",NA,"T cell",4,4.15
+"NNLS","Fibroblast",7.98242103278352,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Fibroblast",3,3.15
+"NNLS","Endothelial",10.0231933553982,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Endothelial",2,2.15
+"NNLS","Pericyte",9.2817578046978,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Pericyte",1,1.15
+"dtangle","Schwann/tumour",5.59732542462397,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Schwann/
+tumor",6,5.85
+"dtangle","Myeloid",8.11012495304456,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Myeloid",5,4.85
+"dtangle","T cell",8.42508454866713,"Overall MAE (%)","known_mixture_calibration.csv",NA,"T cell",4,3.85
+"dtangle","Fibroblast",13.5887641689735,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Fibroblast",3,2.85
+"dtangle","Endothelial",8.2834786378648,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Endothelial",2,1.85
+"dtangle","Pericyte",8.57017860987556,"Overall MAE (%)","known_mixture_calibration.csv",NA,"Pericyte",1,0.85
+"NNLS","Schwann/tumour",6.14894974568319,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",547,"Schwann/
+tumor",6,6.15
+"NNLS","Myeloid",4.05150710652267,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",538,"Myeloid",5,5.15
+"NNLS","T cell",6.35365460636165,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",543,"T cell",4,4.15
+"NNLS","Fibroblast",2.25550255835288,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",501,"Fibroblast",3,3.15
+"NNLS","Endothelial",9.1854796927759,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",520,"Endothelial",2,2.15
+"NNLS","Pericyte",5.33760487602399,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",536,"Pericyte",1,1.15
+"dtangle","Schwann/tumour",5.29635177468893,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",547,"Schwann/
+tumor",6,5.85
+"dtangle","Myeloid",6.48176132459752,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",538,"Myeloid",5,4.85
+"dtangle","T cell",2.30954058262885,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",543,"T cell",4,3.85
+"dtangle","Fibroblast",6.51747826787159,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",501,"Fibroblast",3,2.85
+"dtangle","Endothelial",4.96689388108867,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",520,"Endothelial",2,1.85
+"dtangle","Pericyte",7.42299489201046,"Rare-proportion MAE (%)","known_mixture_rare_lowprop.csv",536,"Pericyte",1,0.85

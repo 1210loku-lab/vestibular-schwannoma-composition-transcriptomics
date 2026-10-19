@@ -1,0 +1,98 @@
+# simulation strong PROTOCOL
+
+```json
+{
+  "title": "simulation independent strong-separation extension",
+  "frozen_before_estimator_outcomes": "2026-10-15T15:11:03+08:00",
+  "scope_limit": "One independent fixed strong extension; no 100/200-replicate formal-scale run.",
+  "scope": {
+    "prior_completed_conditions": [
+      {
+        "scenario": "overlap",
+        "concentration": 50,
+        "repeats": 20,
+        "seed_range": [
+          2026101601,
+          2026101620
+        ]
+      },
+      {
+        "scenario": "separation",
+        "presentation_label": "moderate",
+        "concentration": 50,
+        "repeats": 20,
+        "seed_range": [
+          2026101701,
+          2026101720
+        ]
+      }
+    ],
+    "new_scenario": "strong",
+    "new_concentration": 100,
+    "new_repeats": 20,
+    "new_seed_range_inclusive": [
+      2026101801,
+      2026101820
+    ],
+    "new_seed_count": 20,
+    "samples_per_repeat": {
+      "Control": 9,
+      "Tumor": 31
+    },
+    "no_redraws": true,
+    "no_parameter_search": true
+  },
+  "estimand": "Common within-compartment tumor log2 effect beta[g].",
+  "equations": {
+    "linear_bulk": "L[i,g] = sum_c p[i,c] * mu[g,c] * 2^(T[i] * beta[g])",
+    "analysis_scale": "Y[i,g] = log2(L[i,g]) + epsilon[i,g], epsilon iid Normal(0, 0.12^2)",
+    "noiseless_fixed_composition_identity": "With epsilon=0 and same p, log2(L_tumor[g]/L_control[g])=beta[g].",
+    "rna_contribution_truth": "q[i,c] = p[i,c] * sum_g(mu[g,c]*2^(T[i]*beta[g])) / sum_c'(p[i,c']*sum_g(mu[g,c']*2^(T[i]*beta[g])))."
+  },
+  "reuse_without_regeneration": [
+    "simulation_gene_truth_and_marker_allocation.csv",
+    "simulation_baseline_linear_profiles.csv.gz",
+    "simulation_synthetic_reference_counts.csv.gz",
+    "simulation_synthetic_reference_cell_metadata.csv",
+    "300 reserved unaffected markers",
+    "exact normalized bulk-model MuSiC Control/Tumor composition centers"
+  ],
+  "same_settings": {
+    "genes": 1500,
+    "noise_sd_log2": 0.12,
+    "synthetic_reference_donors": 5,
+    "synthetic_cells_per_donor_compartment": 30,
+    "beta_positive_and_negative": "50 +1.5 and 50 -1.5 per each of expression_only and both classes.",
+    "post_plant_sample_total_normalization": false,
+    "post_plant_cpm_normalization": false,
+    "post_plant_size_factor_normalization": false,
+    "MuSiC_version": "1.0.0",
+    "MuSiC": {
+      "markers": "300 reserved unaffected markers",
+      "normalize": true,
+      "iter.max": 1000,
+      "nu": 0.0001,
+      "eps": 0.01,
+      "centered": false
+    },
+    "limma": {
+      "routes": [
+        "naive ~ group",
+        "oracle ~ group + 5 true-fraction CLR PCs",
+        "estimated ~ group + 5 actual-MuSiC-fraction CLR PCs"
+      ],
+      "eBayes_trend": true,
+      "eBayes_robust": true
+    },
+    "original_gates": {
+      "full_rank": true,
+      "unscaled_condition_number_max": 1000,
+      "group_vif_max": 10,
+      "drop_or_redraw": false,
+      "relax": false
+    }
+  },
+  "motivation": "Coverage of a composition-design condition motivated only by estimated-MuSiC VIF discrepancy: prior concentration-50 median 4.714/range 3.340-6.410 versus observed-data reference 8.747. No call-rate-based tuning.",
+  "optional_allgene_probe": "Exactly replicate 1 from overlap, existing concentration-50 moderate scenario, and new concentration-100 strong scenario, markers=NULL. Descriptive feasibility only; not a calibration or benchmark of the real pipeline."
+}
+```

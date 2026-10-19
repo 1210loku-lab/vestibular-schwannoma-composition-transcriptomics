@@ -1,0 +1,110 @@
+{
+  "title": "simulation controlled simulation pilot",
+  "frozen_before_estimator_outcomes": "2026-10-15",
+  "purpose": "Finite method-behavior pilot; not evidence that any real VS gene is composition-only or tumor-intrinsic.",
+  "estimand": "Common within-compartment log2 tumor effect beta[g] under a fixed composition.",
+  "equations": {
+    "linear_bulk": "L[i,g] = sum_c p[i,c] * mu[g,c] * 2^(T[i] * beta[g])",
+    "analysis_scale": "Y[i,g] = log2(L[i,g]) + epsilon[i,g], epsilon iid Normal(0, 0.12^2)",
+    "fixed_composition_identity": "With epsilon=0 and the same p in both groups, log2(L_tumor[g]/L_control[g]) = beta[g]."
+  },
+  "analysis_scale": {
+    "sample_total_normalization_after_effect_planting": false,
+    "cpm_normalization_after_effect_planting": false,
+    "size_factor_normalization_after_effect_planting": false,
+    "platform_scope": "Continuous microarray-like generated expression with a count-valued reference; no claim of validated real-platform/noise equivalence."
+  },
+  "background": {
+    "source": "data/processed/GSE230375_celltype_meanexpr.csv",
+    "use": "Pooled normalized-expression means for six compartments supply a shared group-independent background only; no VS-versus-nerve effects or real fitted outcomes are used as truth."
+  },
+  "gene_allocation": {
+    "universe_n": 1500,
+    "allocation_seed": 20261015,
+    "reserved_unaffected_markers": "50 non-overlapping high-specificity markers per each of six compartments (300 total); excluded from target classes.",
+    "target_classes": {
+      "null": 100,
+      "composition_only": 100,
+      "expression_only": 100,
+      "both": 100
+    },
+    "non_target_background": 800,
+    "beta_nonzero": "50 target expression-only genes at +1.5 and 50 at -1.5; 50 target both genes at +1.5 and 50 at -1.5; all other genes beta=0.",
+    "threshold": "BH-FDR < 0.05 and absolute estimated log2FC > 1."
+  },
+  "synthetic_reference": {
+    "donors": 5,
+    "cells_per_donor_compartment": 30,
+    "total_cells": 900,
+    "baseline_expected_counts_per_cell": 10000,
+    "donor_gene_perturbation_sd_log": 0.1,
+    "count_distribution": "Negative binomial, size=20.",
+    "donors_are_simulation_units": true
+  },
+  "mixtures": {
+    "repeats_per_scenario": 20,
+    "samples_per_repeat": {
+      "Control": 9,
+      "Tumor": 31
+    },
+    "compartment_order": [
+      "Schwann/tumor-associated",
+      "Myeloid",
+      "T cell",
+      "Fibroblast",
+      "Endothelial",
+      "Pericyte"
+    ],
+    "overlap": {
+      "control_center": [
+        0.32,
+        0.15,
+        0.12,
+        0.14,
+        0.17,
+        0.1
+      ],
+      "tumor_center": [
+        0.36,
+        0.15,
+        0.12,
+        0.13,
+        0.16,
+        0.08
+      ],
+      "dirichlet_concentration": 50
+    },
+    "separation": {
+      "control_center_source": "bulk-model audited MuSiC composition group means, normalized to sum one.",
+      "tumor_center_source": "bulk-model audited MuSiC composition group means, normalized to sum one.",
+      "dirichlet_concentration": 50
+    },
+    "seed_formula": "2026101500 + 100*scenario_index + repeat_index; overlap index=1, separation index=2; no redraws.",
+    "truth_outputs": [
+      "cell fractions",
+      "RNA-contribution fractions after planted effects"
+    ]
+  },
+  "routes": [
+    "naive: limma ~ group",
+    "oracle: limma ~ group + five CLR PCs from true cell fractions",
+    "estimated: actual MuSiC 1.0.0 with explicit reserved markers and normalize=TRUE, then limma ~ group + five CLR PCs from estimated fractions"
+  ],
+  "design_gates": {
+    "full_rank": true,
+    "unscaled_condition_number_max": 1000,
+    "group_vif_max": 10,
+    "remove_or_redraw_failures": false,
+    "relax_gates": false
+  },
+  "metrics": [
+    "threshold calls by truth class",
+    "direction errors",
+    "coefficient bias and absolute error versus beta",
+    "raw and moderated standard errors",
+    "fraction recovery",
+    "repeat-level MCSE for binary rates",
+    "elapsed time and memory"
+  ],
+  "warning": "Oracle CLR-PC adjustment is not guaranteed unbiased because log(sum_c p_c*mu_gc) may be nonlinear in five CLR PCs. Coefficient error against beta includes this functional-form mismatch and does not label the fitted coefficient biological truth."
+}

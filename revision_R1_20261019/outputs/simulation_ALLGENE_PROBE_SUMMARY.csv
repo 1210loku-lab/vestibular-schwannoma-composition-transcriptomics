@@ -1,0 +1,3 @@
+"scenario","replicate","n_samples","marker_argument","status","runtime_seconds","gc_peak_heap_mb_observed","warning_count","error","max_fraction_sum_error","mean_absolute_error_vs_cell_fraction","rmse_vs_cell_fraction","mean_absolute_error_vs_rna_contribution"
+"overlap",1,40,"NULL_all_nonzero_common_genes","ok",1.372,945.1,0,"",2.22044604925031e-16,0.00450481174385281,0.00592844975103301,0.00372541048977788
+"separation",1,40,"NULL_all_nonzero_common_genes","ok",0.382999999999999,976.1,0,"",3.33066907387547e-16,0.00133596306477491,0.00207111869986893,0.00120713659314493

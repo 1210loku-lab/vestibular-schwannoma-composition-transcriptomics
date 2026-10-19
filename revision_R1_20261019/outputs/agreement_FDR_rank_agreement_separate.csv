@@ -1,0 +1,15 @@
+comparison_id,scope,statistic,n_pair,FDR_rank_Spearman
+"all_VS_vs_fresh_group_batch","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.164737563396788
+"all_VS_vs_fresh_group_batch","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.10197854710933
+"all_VS_vs_fresh_MuSiC_PC1_5","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.426185515669716
+"all_VS_vs_fresh_MuSiC_PC1_5","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.155050809632736
+"sporadic_vs_fresh_group_batch","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.206909253829258
+"sporadic_vs_fresh_group_batch","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.17629769346293
+"sporadic_vs_fresh_MuSiC_PC1_5","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.494370872870366
+"sporadic_vs_fresh_MuSiC_PC1_5","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.166908656496051
+"NF2_vs_fresh_group_batch","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.116326524256542
+"NF2_vs_fresh_group_batch","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.0788465537374012
+"NF2_vs_fresh_MuSiC_PC1_5","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.359608019545359
+"NF2_vs_fresh_MuSiC_PC1_5","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.0673179234213492
+"fresh_group_batch_vs_fresh_MuSiC_PC1_5","fixed_submitted_346","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",346,0.413348639468169
+"fresh_group_batch_vs_fresh_MuSiC_PC1_5","all_common_measurable","Spearman correlation of full-fit BH-FDR ranks; significance ranking, not effect agreement",17281,0.248693766022476

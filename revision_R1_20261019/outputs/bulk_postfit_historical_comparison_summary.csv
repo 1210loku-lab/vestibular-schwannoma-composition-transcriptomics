@@ -1,0 +1,3 @@
+comparison,genes_compared,max_abs_effect_difference,historical_DEG_count,fresh_DEG_count,membership_discordant,historical_only,fresh_only,Pearson,Spearman,CCC
+"historical_original_vs_fresh_group_batch",17328,1.04360964314765e-14,1410,1410,0,0,0,1,1,1
+"historical_adjusted_vs_fresh_MuSiC_PC1_5",17328,1.82076576038526e-14,731,731,0,0,0,1,1,1

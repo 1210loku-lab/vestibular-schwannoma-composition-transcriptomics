@@ -1,0 +1,13 @@
+"cell_type","lineage","group","biological_donors","donors_meeting_n_cells_ge_10"
+"Schwann/肿瘤细胞","Schwann/tumor-associated annotation (combined)","Nerve control",2,2
+"Schwann/肿瘤细胞","Schwann/tumor-associated annotation (combined)","Vestibular schwannoma (VS)",7,7
+"巨噬/髓系","Myeloid","Nerve control",2,2
+"巨噬/髓系","Myeloid","Vestibular schwannoma (VS)",7,7
+"T细胞","T cell","Nerve control",2,2
+"T细胞","T cell","Vestibular schwannoma (VS)",7,7
+"成纤维","Fibroblast","Nerve control",2,2
+"成纤维","Fibroblast","Vestibular schwannoma (VS)",7,7
+"内皮","Endothelial","Nerve control",2,2
+"内皮","Endothelial","Vestibular schwannoma (VS)",7,7
+"周细胞","Pericyte","Nerve control",2,2
+"周细胞","Pericyte","Vestibular schwannoma (VS)",7,7

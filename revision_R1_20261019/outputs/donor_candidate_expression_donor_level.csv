@@ -1,0 +1,217 @@
+gene,lineage,donor_id,group,group_code,n_cells,DESeq2_normalized_count,log2_normalized_count_plus_1
+NRG1,Schwann/tumor-associated annotation (combined),N1,Nerve control,Nerve,80,44.8768067145129,5.51969306999291
+NRG1,Schwann/tumor-associated annotation (combined),N2,Nerve control,Nerve,756,35.023658633887,5.17087280652909
+NRG1,Schwann/tumor-associated annotation (combined),T1,Vestibular schwannoma (VS),VS,578,553.173455377103,9.11419379790012
+NRG1,Schwann/tumor-associated annotation (combined),T2,Vestibular schwannoma (VS),VS,1345,102.993353976245,6.70034752110371
+NRG1,Schwann/tumor-associated annotation (combined),T3,Vestibular schwannoma (VS),VS,378,390.731653678096,8.61372189901649
+NRG1,Schwann/tumor-associated annotation (combined),T4,Vestibular schwannoma (VS),VS,6323,126.44489265005,6.9937297483362
+NRG1,Schwann/tumor-associated annotation (combined),T5,Vestibular schwannoma (VS),VS,6335,133.876556578973,7.07549579939205
+NRG1,Schwann/tumor-associated annotation (combined),T6,Vestibular schwannoma (VS),VS,1559,230.01139961545,7.8518202351948
+NRG1,Schwann/tumor-associated annotation (combined),T7,Vestibular schwannoma (VS),VS,5367,420.874410678302,8.72066977150802
+L1CAM,Schwann/tumor-associated annotation (combined),N1,Nerve control,Nerve,80,471.206470502385,8.88327400029034
+L1CAM,Schwann/tumor-associated annotation (combined),N2,Nerve control,Nerve,756,346.345068712883,8.44022580518845
+L1CAM,Schwann/tumor-associated annotation (combined),T1,Vestibular schwannoma (VS),VS,578,737.158459258033,9.52778674026974
+L1CAM,Schwann/tumor-associated annotation (combined),T2,Vestibular schwannoma (VS),VS,1345,2097.81199941088,11.0353572280121
+L1CAM,Schwann/tumor-associated annotation (combined),T3,Vestibular schwannoma (VS),VS,378,2048.03789488277,11.0007309504431
+L1CAM,Schwann/tumor-associated annotation (combined),T4,Vestibular schwannoma (VS),VS,6323,1685.36329090387,10.7196996522151
+L1CAM,Schwann/tumor-associated annotation (combined),T5,Vestibular schwannoma (VS),VS,6335,1713.03890479713,10.7431841403907
+L1CAM,Schwann/tumor-associated annotation (combined),T6,Vestibular schwannoma (VS),VS,1559,1725.74771803608,10.7538416017356
+L1CAM,Schwann/tumor-associated annotation (combined),T7,Vestibular schwannoma (VS),VS,5367,1475.07196948392,10.5275473498858
+FCGBP,Schwann/tumor-associated annotation (combined),N1,Nerve control,Nerve,80,0,0
+FCGBP,Schwann/tumor-associated annotation (combined),N2,Nerve control,Nerve,756,7.78303525197489,3.13471959423041
+FCGBP,Schwann/tumor-associated annotation (combined),T1,Vestibular schwannoma (VS),VS,578,43.8639744351888,5.48748552725873
+FCGBP,Schwann/tumor-associated annotation (combined),T2,Vestibular schwannoma (VS),VS,1345,47.4311498574812,5.59786335085174
+FCGBP,Schwann/tumor-associated annotation (combined),T3,Vestibular schwannoma (VS),VS,378,9.43796264922938,3.38376823948785
+FCGBP,Schwann/tumor-associated annotation (combined),T4,Vestibular schwannoma (VS),VS,6323,53.7337486472388,5.77435876322846
+FCGBP,Schwann/tumor-associated annotation (combined),T5,Vestibular schwannoma (VS),VS,6335,50.1129244337204,5.67561623260244
+FCGBP,Schwann/tumor-associated annotation (combined),T6,Vestibular schwannoma (VS),VS,1559,54.3021154562388,5.78926276340975
+FCGBP,Schwann/tumor-associated annotation (combined),T7,Vestibular schwannoma (VS),VS,5367,61.7385624487657,5.97128056745751
+PRRX1,Schwann/tumor-associated annotation (combined),N1,Nerve control,Nerve,80,0,0
+PRRX1,Schwann/tumor-associated annotation (combined),N2,Nerve control,Nerve,756,179.009810795422,7.49193172744184
+PRRX1,Schwann/tumor-associated annotation (combined),T1,Vestibular schwannoma (VS),VS,578,21.9319872175944,4.51928947487124
+PRRX1,Schwann/tumor-associated annotation (combined),T2,Vestibular schwannoma (VS),VS,1345,0,0
+PRRX1,Schwann/tumor-associated annotation (combined),T3,Vestibular schwannoma (VS),VS,378,0,0
+PRRX1,Schwann/tumor-associated annotation (combined),T4,Vestibular schwannoma (VS),VS,6323,16.8451037425868,4.15745638341245
+PRRX1,Schwann/tumor-associated annotation (combined),T5,Vestibular schwannoma (VS),VS,6335,13.0729368087966,3.8148515234878
+PRRX1,Schwann/tumor-associated annotation (combined),T6,Vestibular schwannoma (VS),VS,1559,11.9199765635646,3.69153154791767
+PRRX1,Schwann/tumor-associated annotation (combined),T7,Vestibular schwannoma (VS),VS,5367,3.55886450205917,2.18867453025723
+NRG1,Myeloid,N1,Nerve control,Nerve,872,244.65863313108,7.94051113009119
+NRG1,Myeloid,N2,Nerve control,Nerve,399,35.9795994395952,5.2086576925435
+NRG1,Myeloid,T1,Vestibular schwannoma (VS),VS,5620,8.83688159289943,3.29820103675477
+NRG1,Myeloid,T2,Vestibular schwannoma (VS),VS,7395,7.79042363637425,3.13593269476217
+NRG1,Myeloid,T3,Vestibular schwannoma (VS),VS,4118,26.4053118862755,4.77638364826477
+NRG1,Myeloid,T4,Vestibular schwannoma (VS),VS,7202,60.1449579294525,5.93416163255934
+NRG1,Myeloid,T5,Vestibular schwannoma (VS),VS,10123,32.7651326605736,5.07746232064805
+NRG1,Myeloid,T6,Vestibular schwannoma (VS),VS,6096,16.5473677727244,4.13318272735175
+NRG1,Myeloid,T7,Vestibular schwannoma (VS),VS,4958,139.52889815181,7.13472302437291
+L1CAM,Myeloid,N1,Nerve control,Nerve,872,17.47561665222,4.20755061223595
+L1CAM,Myeloid,N2,Nerve control,Nerve,399,0,0
+L1CAM,Myeloid,T1,Vestibular schwannoma (VS),VS,5620,14.4180699673622,3.946550275005
+L1CAM,Myeloid,T2,Vestibular schwannoma (VS),VS,7395,148.476309305015,7.22377303769964
+L1CAM,Myeloid,T3,Vestibular schwannoma (VS),VS,4118,40.3845946495979,5.37102192157894
+L1CAM,Myeloid,T4,Vestibular schwannoma (VS),VS,7202,452.07316738777,8.82360024159957
+L1CAM,Myeloid,T5,Vestibular schwannoma (VS),VS,10123,215.272669848857,7.75670755472916
+L1CAM,Myeloid,T6,Vestibular schwannoma (VS),VS,6096,180.560983637669,7.50431039923137
+L1CAM,Myeloid,T7,Vestibular schwannoma (VS),VS,4958,457.46306684124,8.84066170673323
+FCGBP,Myeloid,N1,Nerve control,Nerve,872,148.54274154387,7.22441407687662
+FCGBP,Myeloid,N2,Nerve control,Nerve,399,593.663390753321,9.21592945162579
+FCGBP,Myeloid,T1,Vestibular schwannoma (VS),VS,5620,1100.88940686279,10.1057637171218
+FCGBP,Myeloid,T2,Vestibular schwannoma (VS),VS,7395,6065.53219123821,12.5666563497164
+FCGBP,Myeloid,T3,Vestibular schwannoma (VS),VS,4118,7982.94708467724,12.9628864435979
+FCGBP,Myeloid,T4,Vestibular schwannoma (VS),VS,7202,5268.59971632835,12.363477662236
+FCGBP,Myeloid,T5,Vestibular schwannoma (VS),VS,10123,2676.39399416896,11.3866137402672
+FCGBP,Myeloid,T6,Vestibular schwannoma (VS),VS,6096,4132.94844488162,12.0133046814619
+FCGBP,Myeloid,T7,Vestibular schwannoma (VS),VS,4958,9280.26938623451,13.1801064188926
+PRRX1,Myeloid,N1,Nerve control,Nerve,872,192.23178317442,7.594188601013
+PRRX1,Myeloid,N2,Nerve control,Nerve,399,305.826595236559,8.26127972852487
+PRRX1,Myeloid,T1,Vestibular schwannoma (VS),VS,5620,5.11608934325756,2.61260948160604
+PRRX1,Myeloid,T2,Vestibular schwannoma (VS),VS,7395,0,0
+PRRX1,Myeloid,T3,Vestibular schwannoma (VS),VS,4118,0,0
+PRRX1,Myeloid,T4,Vestibular schwannoma (VS),VS,7202,5.91589750125763,2.78991648732561
+PRRX1,Myeloid,T5,Vestibular schwannoma (VS),VS,10123,3.16154788830096,2.05712023880327
+PRRX1,Myeloid,T6,Vestibular schwannoma (VS),VS,6096,11.1938076109606,3.60807678390625
+PRRX1,Myeloid,T7,Vestibular schwannoma (VS),VS,4958,11.716167020381,3.66859196566533
+NRG1,T cell,N1,Nerve control,Nerve,518,0,0
+NRG1,T cell,N2,Nerve control,Nerve,519,0,0
+NRG1,T cell,T1,Vestibular schwannoma (VS),VS,3214,1.20321497654054,1.13961027146066
+NRG1,T cell,T2,Vestibular schwannoma (VS),VS,610,0,0
+NRG1,T cell,T3,Vestibular schwannoma (VS),VS,3443,2.06253714467537,1.61472734227487
+NRG1,T cell,T4,Vestibular schwannoma (VS),VS,2445,13.5076451198145,3.85874145511343
+NRG1,T cell,T5,Vestibular schwannoma (VS),VS,4830,3.49306427491157,2.16769970028399
+NRG1,T cell,T6,Vestibular schwannoma (VS),VS,1602,9.79670926819412,3.43251975487953
+NRG1,T cell,T7,Vestibular schwannoma (VS),VS,1004,49.5241344280531,5.6589007956675
+L1CAM,T cell,N1,Nerve control,Nerve,518,16.5747768978631,4.13543447008051
+L1CAM,T cell,N2,Nerve control,Nerve,519,13.7835781783048,3.88592359274222
+L1CAM,T cell,T1,Vestibular schwannoma (VS),VS,3214,16.8450096715676,4.15744877818064
+L1CAM,T cell,T2,Vestibular schwannoma (VS),VS,610,28.2313957107762,4.8694468100027
+L1CAM,T cell,T3,Vestibular schwannoma (VS),VS,3443,19.8003565888835,4.37853635616739
+L1CAM,T cell,T4,Vestibular schwannoma (VS),VS,2445,132.232736436079,7.05780479839458
+L1CAM,T cell,T5,Vestibular schwannoma (VS),VS,4830,45.9088447559807,5.55178806629597
+L1CAM,T cell,T6,Vestibular schwannoma (VS),VS,1602,78.373674145553,6.31058868314474
+L1CAM,T cell,T7,Vestibular schwannoma (VS),VS,1004,170.45516035702,7.42168751609228
+FCGBP,T cell,N1,Nerve control,Nerve,518,19.3372397141736,4.34605197659468
+FCGBP,T cell,N2,Nerve control,Nerve,519,27.5671563566096,4.83628552897763
+FCGBP,T cell,T1,Vestibular schwannoma (VS),VS,3214,42.5135958377657,5.44339433683954
+FCGBP,T cell,T2,Vestibular schwannoma (VS),VS,610,63.5206403492465,6.01168885179533
+FCGBP,T cell,T3,Vestibular schwannoma (VS),VS,3443,33.0005943148059,5.08748805911886
+FCGBP,T cell,T4,Vestibular schwannoma (VS),VS,2445,62.5617247654566,5.99008636804469
+FCGBP,T cell,T5,Vestibular schwannoma (VS),VS,4830,20.9583856494694,4.45670008815963
+FCGBP,T cell,T6,Vestibular schwannoma (VS),VS,1602,35.6243973388877,5.19473311480855
+FCGBP,T cell,T7,Vestibular schwannoma (VS),VS,1004,104.806889138438,6.72528975486645
+PRRX1,T cell,N1,Nerve control,Nerve,518,13.8123140815526,3.88872514086076
+PRRX1,T cell,N2,Nerve control,Nerve,519,50.5397866537843,5.68761466013758
+PRRX1,T cell,T1,Vestibular schwannoma (VS),VS,3214,1.20321497654054,1.13961027146066
+PRRX1,T cell,T2,Vestibular schwannoma (VS),VS,610,2.35261630923135,1.74528738308892
+PRRX1,T cell,T3,Vestibular schwannoma (VS),VS,3443,0,0
+PRRX1,T cell,T4,Vestibular schwannoma (VS),VS,2445,0.710928690516553,0.774779631258056
+PRRX1,T cell,T5,Vestibular schwannoma (VS),VS,4830,0.249504591065112,0.321356202340744
+PRRX1,T cell,T6,Vestibular schwannoma (VS),VS,1602,3.56243973388877,2.18980550217995
+PRRX1,T cell,T7,Vestibular schwannoma (VS),VS,1004,0,0
+NRG1,Fibroblast,N1,Nerve control,Nerve,5053,0.544580383737989,0.627214954295076
+NRG1,Fibroblast,N2,Nerve control,Nerve,6622,0.397171616761804,0.482509240106426
+NRG1,Fibroblast,T1,Vestibular schwannoma (VS),VS,516,10.0264159866791,3.46289203010654
+NRG1,Fibroblast,T2,Vestibular schwannoma (VS),VS,110,0,0
+NRG1,Fibroblast,T3,Vestibular schwannoma (VS),VS,37,381.744020577355,8.5802360291568
+NRG1,Fibroblast,T4,Vestibular schwannoma (VS),VS,187,47.0191378861436,5.58553759719475
+NRG1,Fibroblast,T5,Vestibular schwannoma (VS),VS,182,48.1590143499506,5.61938408450571
+NRG1,Fibroblast,T6,Vestibular schwannoma (VS),VS,1268,7.36679205189388,3.06467457881517
+NRG1,Fibroblast,T7,Vestibular schwannoma (VS),VS,874,24.9130818658729,4.69560870161363
+L1CAM,Fibroblast,N1,Nerve control,Nerve,5053,1.22530586341048,1.15400364497722
+L1CAM,Fibroblast,N2,Nerve control,Nerve,6622,2.11824862272962,1.64073596090272
+L1CAM,Fibroblast,T1,Vestibular schwannoma (VS),VS,516,13.6723854363806,3.87503153832303
+L1CAM,Fibroblast,T2,Vestibular schwannoma (VS),VS,110,66.0092561856723,6.06628848793271
+L1CAM,Fibroblast,T3,Vestibular schwannoma (VS),VS,37,134.416908653998,7.08126408015177
+L1CAM,Fibroblast,T4,Vestibular schwannoma (VS),VS,187,425.784415302301,8.73736368464232
+L1CAM,Fibroblast,T5,Vestibular schwannoma (VS),VS,182,385.272114799605,8.59347372214033
+L1CAM,Fibroblast,T6,Vestibular schwannoma (VS),VS,1268,45.12160131785,5.52737069836308
+L1CAM,Fibroblast,T7,Vestibular schwannoma (VS),VS,874,98.5450793805637,6.63727809864117
+FCGBP,Fibroblast,N1,Nerve control,Nerve,5053,0.680725479672487,0.749084102053204
+FCGBP,Fibroblast,N2,Nerve control,Nerve,6622,1.58868646704722,1.37222024147305
+FCGBP,Fibroblast,T1,Vestibular schwannoma (VS),VS,516,10.9379083491045,3.57747817782859
+FCGBP,Fibroblast,T2,Vestibular schwannoma (VS),VS,110,33.0046280928362,5.08765920807951
+FCGBP,Fibroblast,T3,Vestibular schwannoma (VS),VS,37,5.37667634615993,2.67280465779477
+FCGBP,Fibroblast,T4,Vestibular schwannoma (VS),VS,187,57.4678351941756,5.86957127056476
+FCGBP,Fibroblast,T5,Vestibular schwannoma (VS),VS,182,58.8610175388285,5.90354489737431
+FCGBP,Fibroblast,T6,Vestibular schwannoma (VS),VS,1268,59.2412860839799,5.9126806651491
+FCGBP,Fibroblast,T7,Vestibular schwannoma (VS),VS,874,188.232174097706,7.56401359274873
+PRRX1,Fibroblast,N1,Nerve control,Nerve,5053,1700.45224822187,10.7325509468553
+PRRX1,Fibroblast,N2,Nerve control,Nerve,6622,1427.56718118084,10.4803531681029
+PRRX1,Fibroblast,T1,Vestibular schwannoma (VS),VS,516,527.754077844292,9.04645307436769
+PRRX1,Fibroblast,T2,Vestibular schwannoma (VS),VS,110,297.041652835525,8.21937015851569
+PRRX1,Fibroblast,T3,Vestibular schwannoma (VS),VS,37,86.0268215385589,6.4433882008733
+PRRX1,Fibroblast,T4,Vestibular schwannoma (VS),VS,187,255.993084046782,8.00558572528079
+PRRX1,Fibroblast,T5,Vestibular schwannoma (VS),VS,182,238.119570952534,7.90158840330682
+PRRX1,Fibroblast,T6,Vestibular schwannoma (VS),VS,1268,422.055794639753,8.72470413525195
+PRRX1,Fibroblast,T7,Vestibular schwannoma (VS),VS,874,350.444018246611,8.457151089513
+NRG1,Endothelial,N1,Nerve control,Nerve,3280,0,0
+NRG1,Endothelial,N2,Nerve control,Nerve,1218,0.315237049263182,0.395322844365977
+NRG1,Endothelial,T1,Vestibular schwannoma (VS),VS,32,3.16484234715344,2.05826188591864
+NRG1,Endothelial,T2,Vestibular schwannoma (VS),VS,107,0,0
+NRG1,Endothelial,T3,Vestibular schwannoma (VS),VS,36,0,0
+NRG1,Endothelial,T4,Vestibular schwannoma (VS),VS,157,3.63382844638649,2.21220463373038
+NRG1,Endothelial,T5,Vestibular schwannoma (VS),VS,150,1.26604091348141,1.18017390932431
+NRG1,Endothelial,T6,Vestibular schwannoma (VS),VS,273,0.747061709079196,0.804930567504941
+NRG1,Endothelial,T7,Vestibular schwannoma (VS),VS,92,3.18443996256329,2.06503454815235
+L1CAM,Endothelial,N1,Nerve control,Nerve,3280,17.3702797349116,4.19930169025861
+L1CAM,Endothelial,N2,Nerve control,Nerve,1218,7.25045213305318,3.0444731826603
+L1CAM,Endothelial,T1,Vestibular schwannoma (VS),VS,32,0,0
+L1CAM,Endothelial,T2,Vestibular schwannoma (VS),VS,107,2.27426255493609,1.71117001256248
+L1CAM,Endothelial,T3,Vestibular schwannoma (VS),VS,36,0,0
+L1CAM,Endothelial,T4,Vestibular schwannoma (VS),VS,157,23.0142468271144,4.58581865608286
+L1CAM,Endothelial,T5,Vestibular schwannoma (VS),VS,150,16.4585318752584,4.12586033968876
+L1CAM,Endothelial,T6,Vestibular schwannoma (VS),VS,273,6.72355538171276,2.94926511573073
+L1CAM,Endothelial,T7,Vestibular schwannoma (VS),VS,92,15.9221998128164,4.0808452196544
+FCGBP,Endothelial,N1,Nerve control,Nerve,3280,0.898462744909219,0.924831688047293
+FCGBP,Endothelial,N2,Nerve control,Nerve,1218,0.945711147789546,0.960297549490698
+FCGBP,Endothelial,T1,Vestibular schwannoma (VS),VS,32,0,0
+FCGBP,Endothelial,T2,Vestibular schwannoma (VS),VS,107,43.2109885437856,5.46633308774692
+FCGBP,Endothelial,T3,Vestibular schwannoma (VS),VS,36,8.2428562128176,3.20833873987993
+FCGBP,Endothelial,T4,Vestibular schwannoma (VS),VS,157,33.9157321662739,5.12580532055459
+FCGBP,Endothelial,T5,Vestibular schwannoma (VS),VS,150,29.1189410100725,4.91259914024995
+FCGBP,Endothelial,T6,Vestibular schwannoma (VS),VS,273,20.1706661451383,4.40399476003671
+FCGBP,Endothelial,T7,Vestibular schwannoma (VS),VS,92,111.455398689715,6.81320911257049
+PRRX1,Endothelial,N1,Nerve control,Nerve,3280,7.48718954091016,3.08528689692954
+PRRX1,Endothelial,N2,Nerve control,Nerve,1218,11.9790078720009,3.69810820142555
+PRRX1,Endothelial,T1,Vestibular schwannoma (VS),VS,32,15.8242117357672,4.07246700676365
+PRRX1,Endothelial,T2,Vestibular schwannoma (VS),VS,107,0,0
+PRRX1,Endothelial,T3,Vestibular schwannoma (VS),VS,36,0,0
+PRRX1,Endothelial,T4,Vestibular schwannoma (VS),VS,157,0,0
+PRRX1,Endothelial,T5,Vestibular schwannoma (VS),VS,150,7.59624548088848,3.10370668204485
+PRRX1,Endothelial,T6,Vestibular schwannoma (VS),VS,273,1.49412341815839,1.31853285665098
+PRRX1,Endothelial,T7,Vestibular schwannoma (VS),VS,92,0,0
+NRG1,Pericyte,N1,Nerve control,Nerve,3758,0.260669025018744,0.334189561439864
+NRG1,Pericyte,N2,Nerve control,Nerve,2359,0.116931979237229,0.15954132887834
+NRG1,Pericyte,T1,Vestibular schwannoma (VS),VS,71,0,0
+NRG1,Pericyte,T2,Vestibular schwannoma (VS),VS,33,6.00309749766712,2.80799317292991
+NRG1,Pericyte,T3,Vestibular schwannoma (VS),VS,19,0,0
+NRG1,Pericyte,T4,Vestibular schwannoma (VS),VS,139,3.16199653487124,2.0572757639377
+NRG1,Pericyte,T5,Vestibular schwannoma (VS),VS,139,1.8572760809302,1.51464044171552
+NRG1,Pericyte,T6,Vestibular schwannoma (VS),VS,270,3.95891719012904,2.31002513372249
+NRG1,Pericyte,T7,Vestibular schwannoma (VS),VS,207,12.1489720709364,3.71687811523174
+L1CAM,Pericyte,N1,Nerve control,Nerve,3758,4.75720970659208,2.52536976343567
+L1CAM,Pericyte,N2,Nerve control,Nerve,2359,1.28625177160952,1.19298428791441
+L1CAM,Pericyte,T1,Vestibular schwannoma (VS),VS,71,4.75749090912156,2.52544022805449
+L1CAM,Pericyte,T2,Vestibular schwannoma (VS),VS,33,0,0
+L1CAM,Pericyte,T3,Vestibular schwannoma (VS),VS,19,5.79757350247803,2.76501984626287
+L1CAM,Pericyte,T4,Vestibular schwannoma (VS),VS,139,61.6589324299892,5.96944828446417
+L1CAM,Pericyte,T5,Vestibular schwannoma (VS),VS,139,61.2901106706966,5.96093123054694
+L1CAM,Pericyte,T6,Vestibular schwannoma (VS),VS,270,32.4631209590582,5.06450010040054
+L1CAM,Pericyte,T7,Vestibular schwannoma (VS),VS,207,46.8603208450405,5.58075816330572
+FCGBP,Pericyte,N1,Nerve control,Nerve,3758,0.32583628127343,0.406902637609268
+FCGBP,Pericyte,N2,Nerve control,Nerve,2359,0.233863958474458,0.303183336745287
+FCGBP,Pericyte,T1,Vestibular schwannoma (VS),VS,71,0,0
+FCGBP,Pericyte,T2,Vestibular schwannoma (VS),VS,33,66.0340724743383,6.06682267844199
+FCGBP,Pericyte,T3,Vestibular schwannoma (VS),VS,19,197.117499084253,7.63021250426309
+FCGBP,Pericyte,T4,Vestibular schwannoma (VS),VS,139,33.200963616148,5.09596506867261
+FCGBP,Pericyte,T5,Vestibular schwannoma (VS),VS,139,24.1445890520926,4.65217606996432
+FCGBP,Pericyte,T6,Vestibular schwannoma (VS),VS,270,26.1288534548517,4.76175617125933
+FCGBP,Pericyte,T7,Vestibular schwannoma (VS),VS,207,32.1079976160463,5.04910785353055
+PRRX1,Pericyte,N1,Nerve control,Nerve,3758,417.852447105046,8.71029829212203
+PRRX1,Pericyte,N2,Nerve control,Nerve,2359,396.984069510392,8.63656687356293
+PRRX1,Pericyte,T1,Vestibular schwannoma (VS),VS,71,163.340521213174,7.36054443722969
+PRRX1,Pericyte,T2,Vestibular schwannoma (VS),VS,33,162.083632437012,7.34946818588418
+PRRX1,Pericyte,T3,Vestibular schwannoma (VS),VS,19,231.902940099121,7.86358504160195
+PRRX1,Pericyte,T4,Vestibular schwannoma (VS),VS,139,132.803854464592,7.06397586582029
+PRRX1,Pericyte,T5,Vestibular schwannoma (VS),VS,139,144.867534312556,7.18851500861479
+PRRX1,Pericyte,T6,Vestibular schwannoma (VS),VS,270,214.573311704994,7.75203477113915
+PRRX1,Pericyte,T7,Vestibular schwannoma (VS),VS,207,158.804420641526,7.3201635076113

@@ -1,0 +1,55 @@
+"id","sample","cell_type","n_cells","group","lineage","lineage_id","count_sum","nonzero_genes","passed_original_n_cells_gate"
+"N1@@Schwann/肿瘤细胞","N1","Schwann/肿瘤细胞",80,"Nerve","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",212400,12291,TRUE
+"N1@@T细胞","N1","T细胞",518,"Nerve","T cell","T_cell",1675094,15052,TRUE
+"N1@@内皮","N1","内皮",3280,"Nerve","Endothelial","Endothelial",21228028,20695,TRUE
+"N1@@周细胞","N1","周细胞",3758,"Nerve","Pericyte","Pericyte",29508844,21934,TRUE
+"N1@@巨噬/髓系","N1","巨噬/髓系",872,"Nerve","Myeloid","Myeloid",2361737,16750,TRUE
+"N1@@成纤维","N1","成纤维",5053,"Nerve","Fibroblast","Fibroblast",33637804,21711,TRUE
+"N2@@Schwann/肿瘤细胞","N2","Schwann/肿瘤细胞",756,"Nerve","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",1233031,17119,TRUE
+"N2@@T细胞","N2","T细胞",519,"Nerve","T cell","T_cell",953669,15442,TRUE
+"N2@@内皮","N2","内皮",1218,"Nerve","Endothelial","Endothelial",4969705,19350,TRUE
+"N2@@周细胞","N2","周细胞",2359,"Nerve","Pericyte","Pericyte",17877209,22380,TRUE
+"N2@@巨噬/髓系","N2","巨噬/髓系",399,"Nerve","Myeloid","Myeloid",1107183,16066,TRUE
+"N2@@成纤维","N2","成纤维",6622,"Nerve","Fibroblast","Fibroblast",34765269,24139,TRUE
+"T1@@Schwann/肿瘤细胞","T1","Schwann/肿瘤细胞",578,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",5154321,18525,TRUE
+"T1@@T细胞","T1","T细胞",3214,"VS","T cell","T_cell",9223129,17757,TRUE
+"T1@@内皮","T1","内皮",32,"VS","Endothelial","Endothelial",504306,13288,TRUE
+"T1@@周细胞","T1","周细胞",71,"VS","Pericyte","Pericyte",1063086,15463,TRUE
+"T1@@巨噬/髓系","T1","巨噬/髓系",5620,"VS","Myeloid","Myeloid",51150033,21452,TRUE
+"T1@@成纤维","T1","成纤维",516,"VS","Fibroblast","Fibroblast",4022231,18357,TRUE
+"T2@@Schwann/肿瘤细胞","T2","Schwann/肿瘤细胞",1345,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",3139080,17693,TRUE
+"T2@@T细胞","T2","T细胞",610,"VS","T cell","T_cell",1647015,15189,TRUE
+"T2@@内皮","T2","内皮",107,"VS","Endothelial","Endothelial",593138,13783,TRUE
+"T2@@周细胞","T2","周细胞",33,"VS","Pericyte","Pericyte",252876,12353,TRUE
+"T2@@巨噬/髓系","T2","巨噬/髓系",7395,"VS","Myeloid","Myeloid",45886286,22094,TRUE
+"T2@@成纤维","T2","成纤维",110,"VS","Fibroblast","Fibroblast",501447,13762,TRUE
+"T3@@Schwann/肿瘤细胞","T3","Schwann/肿瘤细胞",378,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",2566614,16812,TRUE
+"T3@@T细胞","T3","T细胞",3443,"VS","T cell","T_cell",9119957,18401,TRUE
+"T3@@内皮","T3","内皮",36,"VS","Endothelial","Endothelial",484193,13060,TRUE
+"T3@@周细胞","T3","周细胞",19,"VS","Pericyte","Pericyte",286697,11925,TRUE
+"T3@@巨噬/髓系","T3","巨噬/髓系",4118,"VS","Myeloid","Myeloid",25469372,21144,TRUE
+"T3@@成纤维","T3","成纤维",37,"VS","Fibroblast","Fibroblast",828649,13770,TRUE
+"T4@@Schwann/肿瘤细胞","T4","Schwann/肿瘤细胞",6323,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",26544996,21402,TRUE
+"T4@@T细胞","T4","T细胞",2445,"VS","T cell","T_cell",6290775,17868,TRUE
+"T4@@内皮","T4","内皮",157,"VS","Endothelial","Endothelial",1274666,15091,TRUE
+"T4@@周细胞","T4","周细胞",139,"VS","Pericyte","Pericyte",1157337,15355,TRUE
+"T4@@巨噬/髓系","T4","巨噬/髓系",7202,"VS","Myeloid","Myeloid",52863659,22348,TRUE
+"T4@@成纤维","T4","成纤维",187,"VS","Fibroblast","Fibroblast",1982205,15667,TRUE
+"T5@@Schwann/肿瘤细胞","T5","Schwann/肿瘤细胞",6335,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",23375068,21335,TRUE
+"T5@@T细胞","T5","T细胞",4830,"VS","T cell","T_cell",15302643,19361,TRUE
+"T5@@内皮","T5","内皮",150,"VS","Endothelial","Endothelial",1199195,15091,TRUE
+"T5@@周细胞","T5","周细胞",139,"VS","Pericyte","Pericyte",980696,14998,TRUE
+"T5@@巨噬/髓系","T5","巨噬/髓系",10123,"VS","Myeloid","Myeloid",81587229,23216,TRUE
+"T5@@成纤维","T5","成纤维",182,"VS","Fibroblast","Fibroblast",1855096,15658,TRUE
+"T6@@Schwann/肿瘤细胞","T6","Schwann/肿瘤细胞",1559,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",8977538,23531,TRUE
+"T6@@T细胞","T6","T细胞",1602,"VS","T cell","T_cell",4539065,19044,TRUE
+"T6@@内皮","T6","内皮",273,"VS","Endothelial","Endothelial",1941574,17431,TRUE
+"T6@@周细胞","T6","周细胞",270,"VS","Pericyte","Pericyte",2290992,17934,TRUE
+"T6@@巨噬/髓系","T6","巨噬/髓系",6096,"VS","Myeloid","Myeloid",44073074,24673,TRUE
+"T6@@成纤维","T6","成纤维",1268,"VS","Fibroblast","Fibroblast",12278113,22550,TRUE
+"T7@@Schwann/肿瘤细胞","T7","Schwann/肿瘤细胞",5367,"VS","Schwann/tumor-associated annotation (combined)","Schwann_tumour_associated",24343694,24666,TRUE
+"T7@@T细胞","T7","T细胞",1004,"VS","T cell","T_cell",2633282,18558,TRUE
+"T7@@内皮","T7","内皮",92,"VS","Endothelial","Endothelial",737809,15846,TRUE
+"T7@@周细胞","T7","周细胞",207,"VS","Pericyte","Pericyte",1640695,17687,TRUE
+"T7@@巨噬/髓系","T7","巨噬/髓系",4958,"VS","Myeloid","Myeloid",31107740,24183,TRUE
+"T7@@成纤维","T7","成纤维",874,"VS","Fibroblast","Fibroblast",5677291,21823,TRUE

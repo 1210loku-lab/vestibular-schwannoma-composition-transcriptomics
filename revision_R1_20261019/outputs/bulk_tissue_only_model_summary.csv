@@ -1,0 +1,6 @@
+model_id,model_class,reference,pc_n,analysis_set,accepted_by_original_numeric_gate,original_main_MuSiC_PC1_5,baseline_fresh_DEG_n,adjusted_fdr05_logFC1_n_all_genes,both_thresholds_retained,only_FDR_threshold_lost,only_effect_threshold_lost,both_thresholds_lost,sum_baseline_DEG_states,adjusted_only_threshold_calls_all_genes,direction_reversals_among_fresh_baseline_DEGs,median_absolute_logFC_change_baseline_DEGs,median_raw_SE_ratio_baseline_DEGs,median_moderated_SE_ratio_baseline_DEGs
+"baseline_tissue","baseline","none",0,"tissue_31v8",TRUE,FALSE,1611,1611,1611,0,0,0,1611,0,0,0,1,1
+"music_PC1_2_tissue","composition","MuSiC",2,"tissue_31v8",TRUE,FALSE,1611,957,779,23,460,349,1611,178,12,0.325924613295674,1.40291766635458,1.40028930900046
+"music_PC1_3_tissue","composition","MuSiC",3,"tissue_31v8",TRUE,FALSE,1611,855,569,127,96,819,1611,286,33,0.504164335068353,1.85258119792453,1.84638968260653
+"music_PC1_4_tissue","composition","MuSiC",4,"tissue_31v8",TRUE,FALSE,1611,811,557,119,98,837,1611,254,29,0.50232393524756,1.83448833372244,1.82539114569855
+"music_PC1_5_tissue","composition","MuSiC",5,"tissue_31v8",FALSE,TRUE,1611,485,255,438,0,918,1611,230,147,0.689981117873925,2.87413453854539,2.8558130769293

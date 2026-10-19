@@ -1,0 +1,7 @@
+lineage,genes_tested,raw_beta_converged,raw_beta_not_converged,raw_beta_status_missing,apeglm_converged,apeglm_not_converged,apeglm_convergence_status_missing,apeglm_posterior_SD_missing
+Schwann/tumor-associated annotation (combined),21502,21431,0,71,21502,0,0,0
+Myeloid,22908,22899,0,9,22908,0,0,0
+T cell,17444,17443,0,1,17444,0,0,0
+Fibroblast,20870,20870,0,0,20870,0,0,0
+Endothelial,17119,17115,0,4,17118,0,1,1
+Pericyte,18873,18873,0,0,18873,0,0,0

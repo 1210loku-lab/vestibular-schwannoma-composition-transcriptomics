@@ -1,0 +1,53 @@
+"cohort","cell_type","rho","effect","configuration","cell_type_display","label_colour","source_table"
+"GSE39645","Schwann/tumour",0.935741088180113,"Method effect","GSE39645
+Method effect","Schwann/
+tumor","white","reference_by_method_stability.csv"
+"GSE39645","Myeloid",0.824765478424015,"Method effect","GSE39645
+Method effect","Myeloid","white","reference_by_method_stability.csv"
+"GSE39645","T cell",0.893714821763603,"Method effect","GSE39645
+Method effect","T cell","white","reference_by_method_stability.csv"
+"GSE39645","Fibroblast",0.882645403377111,"Method effect","GSE39645
+Method effect","Fibroblast","white","reference_by_method_stability.csv"
+"GSE39645","Endothelial",0.730831931493802,"Method effect","GSE39645
+Method effect","Endothelial","#111111","reference_by_method_stability.csv"
+"GSE39645","Pericyte",0.795403377110694,"Method effect","GSE39645
+Method effect","Pericyte","white","reference_by_method_stability.csv"
+"GSE108524","Schwann/tumour",0.936491935483871,"Method effect","GSE108524
+Method effect","Schwann/
+tumor","white","reference_by_method_stability.csv"
+"GSE108524","Myeloid",0.876247130105235,"Method effect","GSE108524
+Method effect","Myeloid","white","reference_by_method_stability.csv"
+"GSE108524","T cell",-0.0580879434110543,"Method effect","GSE108524
+Method effect","T cell","white","reference_by_method_stability.csv"
+"GSE108524","Fibroblast",0.569413118737561,"Method effect","GSE108524
+Method effect","Fibroblast","#111111","reference_by_method_stability.csv"
+"GSE108524","Endothelial",0.267004496409574,"Method effect","GSE108524
+Method effect","Endothelial","#111111","reference_by_method_stability.csv"
+"GSE108524","Pericyte",0.455532543980366,"Method effect","GSE108524
+Method effect","Pericyte","#111111","reference_by_method_stability.csv"
+"GSE39645","Schwann/tumour",0.957223264540338,"Reference effect","GSE39645
+Reference effect","Schwann/
+tumor","white","reference_by_method_stability.csv"
+"GSE39645","Myeloid",0.929833252778833,"Reference effect","GSE39645
+Reference effect","Myeloid","white","reference_by_method_stability.csv"
+"GSE39645","T cell",0.609083755702673,"Reference effect","GSE39645
+Reference effect","T cell","#111111","reference_by_method_stability.csv"
+"GSE39645","Fibroblast",0.947116725258274,"Reference effect","GSE39645
+Reference effect","Fibroblast","white","reference_by_method_stability.csv"
+"GSE39645","Endothelial",0.701522881156441,"Reference effect","GSE39645
+Reference effect","Endothelial","#111111","reference_by_method_stability.csv"
+"GSE39645","Pericyte",0.680032438066582,"Reference effect","GSE39645
+Reference effect","Pericyte","#111111","reference_by_method_stability.csv"
+"GSE108524","Schwann/tumour",0.851612903225807,"Reference effect","GSE108524
+Reference effect","Schwann/
+tumor","white","reference_by_method_stability.csv"
+"GSE108524","Myeloid",0.936946658694895,"Reference effect","GSE108524
+Reference effect","Myeloid","white","reference_by_method_stability.csv"
+"GSE108524","T cell",0.966129032258065,"Reference effect","GSE108524
+Reference effect","T cell","white","reference_by_method_stability.csv"
+"GSE108524","Fibroblast",0.954036982192258,"Reference effect","GSE108524
+Reference effect","Fibroblast","white","reference_by_method_stability.csv"
+"GSE108524","Endothelial",0.753391290823454,"Reference effect","GSE108524
+Reference effect","Endothelial","#111111","reference_by_method_stability.csv"
+"GSE108524","Pericyte",0.703541879180473,"Reference effect","GSE108524
+Reference effect","Pericyte","#111111","reference_by_method_stability.csv"

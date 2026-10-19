@@ -1,0 +1,10 @@
+"donor_id","group","Schwann_tumor_associated","Myeloid","T_cell","Fibroblast","Endothelial","Pericyte"
+"N1","Nerve control",80,872,518,5053,3280,3758
+"N2","Nerve control",756,399,519,6622,1218,2359
+"T1","Vestibular schwannoma (VS)",578,5620,3214,516,32,71
+"T2","Vestibular schwannoma (VS)",1345,7395,610,110,107,33
+"T3","Vestibular schwannoma (VS)",378,4118,3443,37,36,19
+"T4","Vestibular schwannoma (VS)",6323,7202,2445,187,157,139
+"T5","Vestibular schwannoma (VS)",6335,10123,4830,182,150,139
+"T6","Vestibular schwannoma (VS)",1559,6096,1602,1268,273,270
+"T7","Vestibular schwannoma (VS)",5367,4958,1004,874,92,207

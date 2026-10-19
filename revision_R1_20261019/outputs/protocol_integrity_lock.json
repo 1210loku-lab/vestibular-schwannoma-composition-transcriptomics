@@ -1,0 +1,6 @@
+{
+  "protocol_file": "simulation_strong_PROTOCOL.json",
+  "protocol_sha256": "ae90cd2267454f9b484713b1523148ff1a9013379d8f5e4f51ea37376c7f9957",
+  "original_protocol_sha256": "8b70b29561658565c7a094f1ed9b21a07f2f2662e9087ee64045c0be7be13252",
+  "purpose": "package integrity for public-path copy, not a new pre-fit review or numerical validation"
+}

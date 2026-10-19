@@ -1,0 +1,32 @@
+sample,title,characteristics,title_nf2,title_sporadic,characteristics_nf2,characteristics_sporadic,assigned_subtype,classification_basis
+GSM2893469,Normal never_06,disease state: control | tissue: normal control vestibular nerve | gender: M | age: 20,FALSE,FALSE,FALSE,FALSE,control,control evidence
+GSM2893470,Normal never_08,disease state: control | tissue: normal control vestibular nerve | gender: F | age: 61,FALSE,FALSE,FALSE,FALSE,control,control evidence
+GSM2893471,Normal never_09,disease state: control | tissue: normal control vestibular nerve | gender: M | age: 52,FALSE,FALSE,FALSE,FALSE,control,control evidence
+GSM2893472,Normal never_10,disease state: control | tissue: normal control vestibular nerve | gender: F | age: 40,FALSE,FALSE,FALSE,FALSE,control,control evidence
+GSM2893473,Sporadic Vestibular Schwannoma_01,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 34,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893474,Sporadic Vestibular Schwannoma_02,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 51,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893475,Sporadic Vestibular Schwannoma_03,disease state: Vestibular Schwannoma | tissue: VS | gender: F | age: 44,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893476,Sporadic Vestibular Schwannoma_04,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 48,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893477,Sporadic Vestibular Schwannoma_05,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 48,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893478,Sporadic Vestibular Schwannoma_06,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 21,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893479,Sporadic Vestibular Schwannoma_07,disease state: Vestibular Schwannoma | tissue: VS | gender: F | age: 33,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893480,Sporadic Vestibular Schwannoma_08,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 45,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893481,Sporadic Vestibular Schwannoma_09,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 48,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2893482,Sporadic Vestibular Schwannoma_10,disease state: Vestibular Schwannoma | tissue: VS | gender: M | age: 55,FALSE,TRUE,FALSE,FALSE,sporadic,title contains sporadic
+GSM2902750,NF2-associated Vestibular Schwannoma_08,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 37 | age at diagnosis: 39 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902751,NF2-associated Vestibular Schwannoma_09,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 22 | age at diagnosis: 23 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902752,NF2-associated Vestibular Schwannoma_10,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 14 | age at diagnosis: 16 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902753,NF2-associated Vestibular Schwannoma_11,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 10 | age at diagnosis: 15 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902754,NF2-associated Vestibular Schwannoma_14,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 14 | age at diagnosis: 19 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902755,NF2-associated Vestibular Schwannoma_15,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 35 | age at diagnosis: 35 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902756,NF2-associated Vestibular Schwannoma_16,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 18 | age at diagnosis: 19 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902757,NF2-associated Vestibular Schwannoma_17,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 15 | age at diagnosis: 25 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902758,NF2-associated Vestibular Schwannoma_19,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 16 | age at diagnosis: 17 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902759,NF2-associated Vestibular Schwannoma_20,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 23 | age at diagnosis: 34 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902760,NF2-associated Vestibular Schwannoma_21,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 6 | age at diagnosis: 7 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902761,NF2-associated Vestibular Schwannoma_22,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 32 | age at diagnosis: 52 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902762,NF2-associated Vestibular Schwannoma_24,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 25 | age at diagnosis: 35 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902763,NF2-associated Vestibular Schwannoma_25,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 16 | age at diagnosis: 19 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902764,NF2-associated Vestibular Schwannoma_27,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 16 | age at diagnosis: 35 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902765,NF2-associated Vestibular Schwannoma_28,disease state: NF2-associated VS | gender: M | age at onset of nf2 symptoms: 9 | age at diagnosis: 10 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2
+GSM2902766,NF2-associated Vestibular Schwannoma_29,disease state: NF2-associated VS | gender: F | age at onset of nf2 symptoms: 6 | age at diagnosis: 8 | tissue: VS,TRUE,FALSE,TRUE,FALSE,NF2,title contains NF2

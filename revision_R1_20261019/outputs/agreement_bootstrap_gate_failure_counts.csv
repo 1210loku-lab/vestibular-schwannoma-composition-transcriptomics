@@ -1,0 +1,5 @@
+failure_type,discovery_draws,requested_B
+"rank deficient",0,500
+"original approximate kappa > 1000/nonfinite",0,500
+"group VIF > 10/nonfinite",303,500
+"any original numeric gate failure",303,500

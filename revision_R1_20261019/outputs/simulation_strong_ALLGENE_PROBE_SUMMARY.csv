@@ -1,0 +1,2 @@
+"scenario","replicate","n_samples","marker_argument","status","runtime_seconds","gc_peak_heap_mb_observed","warning_count","error","max_fraction_sum_error","mean_absolute_error_vs_cell_fraction","rmse_vs_cell_fraction","mean_absolute_error_vs_rna_contribution"
+"strong",1,40,"NULL_all_nonzero_common_genes","ok",1.535,814.8,0,"",2.22044604925031e-16,0.00128349652743453,0.00187629862849762,0.00114706606320814

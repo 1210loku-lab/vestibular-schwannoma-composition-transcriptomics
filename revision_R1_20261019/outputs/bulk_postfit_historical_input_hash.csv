@@ -1,0 +1,2 @@
+path,sha256,role
+inputs/results/deconv/deg_composition_adjusted.csv,74288d3c46764ab8d3f6b44ee6c0344c2073bd6dd749313ad457a69dd06b45d0,read only after independent fresh fits; postfit comparison only
